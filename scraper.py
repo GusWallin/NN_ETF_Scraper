@@ -1,3 +1,13 @@
+"""NN Scraper 
+
+Scrapes webpage for ETF information, stores in dataframs and makes simple permutations
+before it is saved to a .csv file.
+
+good luck! 
+
+"""
+
+
 from selenium.common.exceptions import ElementClickInterceptedException
 from bs4 import BeautifulSoup
 import requests
