@@ -1,0 +1,980 @@
+,Namn,1 vecka,1 mån,3 mån,i år,1 år,3 år,5 år,Return ranking sum,return ranking,avg return ranking,never returned negative
+1,Alpha Dividende Plus UCITS ETF,0.46,-0.83,-8.34,-18.02,-16.94,-16.71,,4241.0,886.0,917.0,False
+2,Bank of China International (BOCI) Commerzbank - Shanghai Stock Exchange 50 A Share Index UCITS ETF ,-1.34,0.84,12.74,3.39,5.66,16.39,,1711.0,153.0,134.0,False
+3,BlackRock iShares Core Global Aggregate Bond UCITS ETF EUR Acc Hdg,0.1,-0.7,1.0,3.15,1.56,,,2084.0,311.0,450.0,False
+4,BlackRock iShares FTSE MIB UCITS ETF EUR (Acc),0.92,1.33,-1.74,-14.96,-8.27,-1.73,3.18,3531.0,774.0,654.0,False
+5,BlackRock iShares MSCI UK Small Cap UCITS ETF GBP (Acc),-1.57,0.81,-5.14,-25.27,-7.92,-5.13,-7.43,4576.0,917.0,868.0,False
+6,ComStage 10Y US-Treasury Future Short UCITS ETF,1.09,1.09,-5.85,-12.96,-12.0,-4.6,,3450.0,758.0,784.0,False
+7,ComStage 10Y US-Treasury Future UCITS ETF,0.25,0.27,-2.99,2.79,0.09,15.59,,2362.0,417.0,379.0,False
+8,ComStage 1 DAX UCITS ETF (I),2.06,1.96,0.69,-2.91,5.49,-2.03,,1770.0,175.0,158.0,False
+9,ComStage 1 DivDAX UCITS ETF (I),3.7,3.34,0.15,-6.42,3.21,-4.14,,1832.0,197.0,179.0,False
+10,ComStage 1 EURO STOXX 50 UCITS ETF (I),1.45,-0.03,-2.67,-11.93,-4.71,-3.12,,3213.0,701.0,706.0,False
+11,ComStage 1 MDAX UCITS ETF (I),0.04,0.51,1.01,-4.21,4.4,3.89,,2419.0,434.0,412.0,False
+12,ComStage 1 SDAX UCITS ETF (I),-1.52,1.19,1.4,-2.13,10.98,1.65,,2355.0,415.0,377.0,False
+13,ComStage 1 STOXX Europe 600 UCITS ETF,1.18,-0.8,-2.62,-11.72,-4.27,,,2992.0,625.0,820.0,False
+14,ComStage ATX UCITS ETF,1.62,0.35,-11.83,-30.65,-24.62,-32.2,-0.65,4347.0,903.0,842.0,False
+15,ComStage Bloomberg Equal-weight Commodity ex-Agriculture EUR hedged UCITS ETF,-5.04,-1.78,11.17,-8.25,-7.63,-3.4,,3612.0,798.0,825.0,False
+16,ComStage Bloomberg Equal-weight Commodity ex Agriculture UCITS ETF,-3.86,-2.38,6.97,-11.32,-11.54,7.13,6.13,3947.0,846.0,762.0,False
+17,ComStage Bund-Future Double Short UCITS ETF,-0.9,0.57,-3.72,-7.6,-1.32,-24.62,-39.67,4088.0,867.0,796.0,False
+18,ComStage Bund-Future Leveraged UCITS ETF,0.82,-1.33,3.11,5.46,-2.79,20.51,43.6,2216.0,359.0,196.0,False
+19,ComStage Bund-Future Short UCITS ETF,-0.5,0.25,-2.04,-4.07,-1.11,-14.22,-23.55,3781.0,822.0,715.0,False
+20,ComStage Bund-Future UCITS ETF,0.45,-0.43,1.58,2.53,-1.85,8.29,17.81,2511.0,470.0,283.0,False
+21,ComStage DAX UCITS ETF,2.06,1.9,0.68,-2.89,5.51,-1.96,12.89,2041.0,288.0,147.0,False
+22,ComStage DivDAX UCITS ETF,3.72,3.45,0.26,-6.23,3.42,-4.37,9.72,2098.0,316.0,168.0,False
+23,ComStage Dow Jones Industrial Average UCITS ETF,-0.63,0.92,-3.35,-7.71,-2.15,31.4,68.52,3073.0,657.0,512.0,False
+24,ComStage Dow Jones Switzerland Titans 30 UCITS ETF,2.12,0.26,1.3,-3.33,3.29,17.51,23.2,1941.0,242.0,120.0,False
+25,ComStage EONIA Index UCITS ETF,0.03,-0.04,-0.18,-0.55,-0.76,-1.81,-2.79,3245.0,706.0,577.0,False
+26,ComStage EURO STOXX 50 Daily Leverage UCITS ETF,3.0,4.49,-2.2,-26.28,-14.37,-4.6,13.58,3133.0,677.0,534.0,False
+27,ComStage EURO STOXX 50 Daily Short UCITS ETF,-1.71,-3.18,-1.35,0.15,-8.34,-21.2,-38.06,4373.0,905.0,847.0,False
+28,ComStage EURO STOXX Select Dividend 30 UCITS ETF,2.91,-2.03,-8.49,-30.28,-23.49,-29.7,-15.96,4630.0,920.0,871.0,False
+29,ComStage F.A.Z. Index UCITS ETF,1.81,2.01,0.36,-5.55,2.19,-4.8,13.89,2306.0,397.0,222.0,False
+30,ComStage FTSE China A50 UCITS ETF,-1.57,0.93,8.58,3.36,6.28,18.32,29.78,1884.0,217.0,109.0,False
+31,ComStage HSCEI UCITS ETF,-0.92,-5.11,-7.88,-17.58,-11.84,-10.59,-0.5,5007.0,952.0,924.0,False
+32,ComStage HSI UCITS ETF,-0.74,-2.07,-7.26,-18.33,-13.52,-9.95,11.77,4824.0,943.0,904.0,False
+33,ComStage iBOXX € Germany Covered Capped Overall UCITS ETF,0.17,-0.31,0.61,1.16,-1.2,2.6,3.67,2980.0,620.0,475.0,False
+34,ComStage iBOXX € Liquid Sovereigns Diversified 15+ UCITS ETF,1.29,-3.65,5.9,6.51,0.36,28.17,39.62,1829.0,196.0,98.0,False
+35,ComStage iBOXX € Liquid Sovereigns Diversified 25+ UCITS ETF,1.3,-4.26,4.25,7.23,-1.13,31.25,43.31,1951.0,248.0,123.0,False
+36,ComStage iBOXX € Liquid Sovereigns Diversified 3m-1 UCITS ETF,-0.71,-1.01,-1.17,-1.26,-1.48,-4.99,-5.69,3840.0,835.0,737.0,False
+37,ComStage iBOXX € Liquid Sovereigns Diversified Overall UCITS ETF,0.3,-1.35,0.79,1.08,-1.91,5.8,11.31,2991.0,624.0,479.0,False
+38,ComStage iBOXX EUR Liquid Sovereigns Diversified 10-15 UCITS ETF,0.73,-4.25,-0.56,-0.23,-4.1,5.74,13.93,3247.0,709.0,578.0,False
+39,ComStage iBOXX EUR Liquid Sovereigns Diversified 1-3 UCITS ETF,0.02,-0.23,-0.09,-0.61,-1.29,-2.24,-1.5,3358.0,741.0,615.0,False
+40,ComStage iBOXX EUR Liquid Sovereigns Diversified 3-5 UCITS ETF,-0.86,-1.16,-0.71,-0.89,-2.02,-1.65,0.98,3753.0,816.0,707.0,False
+41,ComStage iBOXX EUR Liquid Sovereigns Diversified 5-7 UCITS ETF,0.19,-1.37,0.71,0.39,-1.87,2.5,7.54,3198.0,698.0,563.0,False
+42,ComStage iBOXX EUR Liquid Sovereigns Diversified 7-10 UCITS ETF,0.36,-1.42,0.9,1.21,-1.95,7.88,15.7,2872.0,589.0,433.0,False
+43,ComStage iBOXX EUR Sovereigns Germany Capped 10+ UCITS ETF,0.98,-4.37,1.06,1.94,-4.09,10.14,18.77,2777.0,549.0,388.0,False
+44,ComStage iBOXX EUR Sovereigns Germany Capped 1-5 UCITS ETF,0.02,-1.08,-1.06,-1.43,-2.59,-4.29,-3.82,3771.0,821.0,711.0,False
+45,ComStage iBOXX EUR Sovereigns Germany Capped 3m-2 UCITS ETF,-0.03,-0.89,-1.11,-1.75,-2.22,-5.1,-5.83,3799.0,827.0,722.0,False
+46,ComStage iBOXX EUR Sovereigns Germany Capped 5-10 UCITS ETF,0.27,-1.42,0.3,-0.11,-2.77,1.94,6.09,3339.0,736.0,610.0,False
+47,ComStage iBOXX EUR Sovereigns Inflation-Linked Euro-Inflation UCITS ETF,-0.22,-2.35,-4.76,-1.91,-3.83,2.83,8.4,3957.0,848.0,764.0,False
+48,ComStage MDAX UCITS ETF,-0.02,0.55,-0.4,-4.21,4.37,3.85,27.41,2786.0,553.0,391.0,False
+49,ComStage MSCI Emerging Markets Leveraged 2x Daily UCITS ETF,-3.34,-0.18,13.22,-13.39,4.67,-4.72,71.55,3055.0,653.0,505.0,False
+50,ComStage MSCI Emerging Markets UCITS ETF,-1.27,-2.42,1.91,-8.16,0.88,1.71,34.49,3342.0,738.0,611.0,False
+51,ComStage MSCI Europe Mid Cap UCITS ETF,0.6,1.02,-0.89,-10.05,-0.89,1.9,15.71,3064.0,654.0,509.0,False
+52,ComStage MSCI Europe Small Cap UCITS ETF,-0.2,-0.02,-0.88,-12.38,-0.47,-1.35,16.6,3551.0,780.0,660.0,False
+53,ComStage MSCI Europe UCITS ETF,1.29,-0.27,-3.55,-13.27,-6.05,-3.65,6.58,3781.0,822.0,715.0,False
+54,ComStage MSCI Italy UCITS ETF,1.03,-0.95,-1.91,-19.75,-14.03,-14.75,-12.99,4308.0,899.0,840.0,False
+55,ComStage MSCI Japan 100% Daily Hedged Euro UCITS ETF,-0.22,2.03,-3.58,-9.28,5.0,0.76,7.04,3156.0,687.0,553.0,False
+56,ComStage MSCI Japan UCITS ETF,0.62,1.24,-4.65,-9.15,-1.41,6.67,21.08,3097.0,666.0,523.0,False
+57,ComStage MSCI North America UCITS ETF,-2.48,1.44,0.84,-0.25,7.27,40.79,68.98,2133.0,331.0,176.0,False
+58,ComStage MSCI Pacific UCITS ETF,0.36,0.74,-4.93,-11.34,-5.46,2.53,20.2,3593.0,794.0,678.0,False
+59,ComStage MSCI Spain UCITS ETF,0.9,-2.67,-13.65,-28.99,-23.46,-32.93,-26.06,5018.0,953.0,926.0,False
+60,ComStage MSCI USA UCITS ETF,-2.56,0.03,0.86,0.27,8.07,43.37,72.96,2291.0,392.0,221.0,False
+61,ComStage MSCI World UCITS ETF,-1.43,0.06,-0.57,-4.11,3.14,25.03,46.68,2782.0,551.0,390.0,False
+62,ComStage NASDAQ-100 UCITS ETF,-5.88,0.7,10.37,22.93,35.54,96.32,157.57,1510.0,99.0,49.0,False
+63,ComStage Nikkei 225 UCITS ETF,1.01,1.42,-3.21,-5.43,2.58,23.77,40.62,2325.0,408.0,227.0,False
+64,ComStage NYSE Arca Gold BUGS UCITS ETF,1.88,-0.27,27.03,39.11,45.59,62.78,191.77,795.0,14.0,13.0,False
+65,ComStage PSI 20 Leverage UCITS ETF,-3.62,-2.59,-10.43,-32.22,-24.82,-20.22,-18.07,5584.0,971.0,957.0,False
+66,ComStage PSI 20 UCITS ETF,1.05,-3.8,-7.92,-17.61,-12.92,-15.82,-13.91,4634.0,921.0,872.0,False
+67,ComStage S&P MidCap 400 UCITS ETF,-2.22,-2.98,-8.6,-14.43,-8.51,11.64,23.11,4529.0,914.0,860.0,False
+68,ComStage S&P SmallCap 600 UCITS ETF,-2.19,-4.31,-9.49,-18.95,-12.5,6.31,19.98,4751.0,938.0,897.0,False
+69,ComStage S&P SMIT 40 Index UCITS ETF,0.06,-2.24,-9.31,-24.84,-19.15,-29.81,-4.54,5074.0,955.0,934.0,False
+70,ComStage SDAX UCITS ETF,-1.43,1.15,1.47,-2.08,11.16,0.28,29.57,2502.0,466.0,278.0,False
+71,ComStage ShortDAX UCITS ETF,-2.23,-4.8,-5.11,-9.72,-17.76,-22.76,-41.35,5164.0,960.0,941.0,False
+72,ComStage ShortMDAX UCITS ETF,-0.34,-2.06,-3.69,-5.4,-14.2,-25.1,-45.79,4672.0,926.0,881.0,False
+73,ComStage SPI UCITS ETF,2.11,0.91,1.05,-1.72,3.38,22.82,30.17,1742.0,161.0,77.0,False
+74,ComStage STOXX Europe 600 Banks UCITS ETF,0.21,-0.77,-14.73,-37.16,-27.58,-48.51,-49.8,5215.0,961.0,943.0,False
+75,ComStage STOXX Europe 600 Construction & Materials UCITS ETF,1.07,0.93,0.42,-10.04,0.35,3.67,27.52,2616.0,501.0,316.0,False
+76,ComStage STOXX Europe 600 Financial Services UCITS ETF,-0.05,-2.61,0.07,-6.23,4.28,20.04,35.07,3005.0,631.0,485.0,False
+77,ComStage STOXX Europe 600 Retail UCITS ETF,0.35,1.61,0.1,-3.94,10.22,21.21,7.13,2230.0,363.0,200.0,False
+78,ComStage STOXX Europe 600 Telecommunications UCITS ETF,2.34,-3.69,-11.22,-19.4,-16.98,-27.94,-38.7,4643.0,922.0,873.0,False
+79,ComStage STOXX Europe 600 Travel & Leisure UCITS ETF,-0.85,1.24,-10.72,-33.59,-25.35,-27.76,-25.64,4905.0,949.0,914.0,False
+80,ComStage STOXX Europe 600 UCITS ETF,1.26,-0.36,-2.85,-12.06,-4.71,-1.55,8.85,3645.0,800.0,688.0,False
+81,ComStage U.S. Treasury Bond Future Double Short UCITS ETF,0.49,6.05,-11.39,-31.03,-26.99,-32.95,,3754.0,817.0,850.0,False
+82,ComStage U.S. Treasury Bond Future Short UCITS ETF,0.82,3.13,-6.98,-18.56,-16.26,-14.9,,3410.0,748.0,769.0,False
+83,EMQQ Emerging Markets Internet & Ecommerce UCITS ETF,-6.15,-3.15,15.75,36.88,49.83,,,1924.0,231.0,341.0,False
+84,Franklin FTSE Brazil UCITS ETF ,1.89,-0.17,-8.64,-37.04,-27.71,,,3460.0,763.0,910.0,False
+85,Franklin FTSE China UCITS ETF,-2.96,0.99,9.38,10.05,20.56,,,1449.0,80.0,141.0,False
+86,Franklin FTSE India UCITS ETF ,0.15,2.64,8.48,-10.91,-2.67,,,1950.0,247.0,367.0,False
+87,Franklin FTSE Korea UCITS ETF ,2.58,0.87,4.19,0.79,23.17,,,889.0,17.0,25.0,True
+88,Franklin Liberty Euro Green Bond UCITS ETF,0.57,-0.04,2.4,2.72,0.01,,,1685.0,146.0,233.0,False
+89,Franklin Liberty Euro Short Maturity UCITS ETF,-0.11,0.11,0.24,-0.64,-0.26,,,2333.0,411.0,595.0,False
+90,Franklin LibertyQ AC Asia ex Japan UCITS ETF,-0.16,-1.06,-1.38,-10.93,-5.59,,,3377.0,745.0,890.0,False
+91,Franklin LibertyQ Emerging Markets UCITS ETF,-0.3,-1.58,-1.7,-16.42,-10.02,,,3650.0,801.0,936.0,False
+92,Franklin LibertyQ European Dividend UCITS ETF,0.83,1.6,-3.86,-14.47,-7.4,-11.94,,3354.0,739.0,752.0,False
+93,Franklin LibertyQ European Equity UCITS ETF,1.58,2.42,-1.9,-12.32,-4.12,,,2253.0,375.0,549.0,False
+94,Franklin LibertyQ Global Dividend UCITS ETF,0.97,2.9,-1.78,-12.96,-8.59,3.58,,2787.0,554.0,584.0,False
+95,Franklin LibertyQ Global Equity SRI UCITS ETF,-0.08,0.59,-1.55,-7.87,-1.2,,,2749.0,539.0,740.0,False
+96,Franklin LibertyQ U.S. Equity UCITS ETF,-0.72,1.19,-1.54,-5.33,-0.1,,,2557.0,490.0,673.0,False
+97,Franklin Liberty USD Investment Grade Corporate Bond UCITS ETF,0.0,-3.25,-4.0,-1.48,-1.68,,,3137.0,679.0,851.0,False
+101,HAN-GINS Cloud Technology UCITS ETF,-6.37,1.35,4.07,9.93,21.0,,,1575.0,117.0,191.0,False
+102,HAN-GINS Indxx Healthcare Innovation ETF,-0.87,-3.12,1.8,7.36,20.16,,,2021.0,281.0,419.0,False
+103,HAN-GINS Tech Megatrend Equal Weight UCITS ETF,-5.89,-2.86,7.3,16.02,29.2,,,2013.0,279.0,410.0,False
+104,Invesco AT1 Capital Bond UCITS ETF EUR Hdg Dist,0.02,1.97,1.63,-1.32,-0.29,,,1824.0,194.0,298.0,False
+105,Invesco Bloomberg Commodity ex-Agriculture UCITS ETF Acc,-2.99,-2.13,8.39,-17.85,-17.94,-8.54,,3984.0,854.0,875.0,False
+106,Invesco Elwood Global Blockchain UCITS ETF,-2.43,-2.5,22.78,32.48,40.88,,,1796.0,182.0,285.0,False
+107,Invesco EQQQ Nasdaq-100 UCITS ETF,-5.9,1.18,10.75,23.02,35.19,94.97,151.91,1438.0,76.0,39.0,False
+108,Invesco EQQQ Nasdaq-100 UCITS ETF EUR Hdg Acc,-7.02,1.25,15.57,28.92,42.43,,,1389.0,64.0,121.0,False
+109,Invesco Euro Corporate Bond UCITS ETF Dist,0.24,0.33,1.22,0.02,-1.08,,,2045.0,293.0,430.0,False
+110,Invesco Euro Floating Rate Note UCITS ETF EUR Dist,1.07,1.07,1.07,-1.11,-1.07,,,1791.0,178.0,281.0,False
+111,Invesco Euro Government Bond 1-3 Year UCITS ETF,0.0,-0.05,0.24,-0.38,,,,1955.0,252.0,626.0,False
+112,Invesco Euro Government Bond 3-5 Year UCITS ETF,0.08,0.03,0.77,0.51,,,,1750.0,165.0,508.0,True
+113,Invesco Euro Government Bond 5-7 Year UCITS ETF,0.2,0.0,1.7,1.11,,,,1576.0,120.0,381.0,False
+114,Invesco Euro Government Bond 7-10 Year UCITS ETF,0.35,-0.2,1.79,2.0,,,,1534.0,105.0,338.0,False
+115,Invesco Euro Government Bond UCITS ETF,0.35,-0.61,1.96,2.0,,,,1614.0,128.0,416.0,False
+116,Invesco EuroMTS Cash 3 Months UCITS ETF Acc,-0.03,-0.06,-0.18,-0.4,-0.64,-1.83,-2.85,3257.0,715.0,588.0,False
+117,Invesco EURO STOXX 50 UCITS ETF Acc,1.55,2.36,-0.42,-9.8,-2.47,5.41,19.89,2541.0,483.0,296.0,False
+118,Invesco EURO STOXX 50 UCITS ETF Dist,1.58,2.38,-1.91,-11.37,-1.06,-3.59,2.66,2898.0,600.0,442.0,False
+119,Invesco EURO STOXX High Dividend Low Volatility UCITS ETF Dist,2.01,2.89,-8.6,-22.55,-17.28,-21.3,,3307.0,728.0,743.0,False
+120,Invesco FTSE Emerging Markets High Dividend Low Volatility UCITS ETF Dist,0.26,-0.17,-8.26,-25.91,-23.08,-23.17,,4325.0,901.0,931.0,False
+121,Invesco FTSE RAFI All World 3000 UCITS ETF,0.18,1.59,-5.08,-14.73,-8.47,-0.19,12.03,3770.0,820.0,710.0,False
+122,Invesco FTSE RAFI Emerging Markets UCITS ETF Dist,-0.17,-0.85,-3.1,-21.01,-14.44,-12.69,17.9,4528.0,913.0,859.0,False
+123,Invesco FTSE RAFI Europe UCITS ETF Dist,1.78,2.27,-5.7,-19.86,-11.2,-15.59,-11.39,3691.0,811.0,698.0,False
+124,Invesco FTSE RAFI US 1000 UCITS ETF Dist,-0.81,0.99,-6.1,-13.24,-4.9,14.47,30.25,3661.0,803.0,690.0,False
+125,Invesco Global Buyback Achievers UCITS ETF Dist,-0.8,1.07,-2.99,-12.0,-4.04,11.04,28.35,3508.0,769.0,650.0,False
+126,Invesco Goldman Sachs Equity Factor Index Emerging Markets UCITS ETF,-0.92,-0.76,2.04,-7.18,3.19,,,2569.0,494.0,679.0,False
+127,Invesco Goldman Sachs Equity Factor Index Europe UCITS ETF Acc,1.09,1.99,0.71,-9.23,-2.01,6.79,21.06,2488.0,459.0,271.0,False
+128,Invesco Goldman Sachs Equity Factor Index World UCITS ETF Acc,-1.32,1.14,0.09,-7.97,-4.16,17.63,33.49,3138.0,680.0,538.0,False
+129,Invesco JPX-Nikkei 400 UCITS ETF,-0.01,4.44,-0.07,-4.8,7.04,5.58,15.17,2307.0,398.0,223.0,False
+130,Invesco JPX-Nikkei 400 UCITS ETF,0.83,4.1,-2.74,-6.85,2.26,12.29,29.29,2212.0,356.0,194.0,False
+131,Invesco KBW NASDAQ Fintech UCITS ETF Acc,-3.11,-2.66,-5.19,-3.19,,,,3048.0,649.0,950.0,False
+132,Invesco Markets plc - EURO STOXX Optimised Banks UCITS ETF,1.38,2.73,-10.89,-34.93,-23.83,-46.91,-48.14,4142.0,878.0,811.0,False
+133,Invesco MDAX UCITS ETF,0.0,1.41,1.9,-3.51,5.26,,,1840.0,201.0,307.0,False
+134,Invesco Morningstar US Energy Infrastructure MLP UCITS ETF,-2.68,-5.02,-30.08,-45.22,-48.28,-45.53,-53.63,5833.0,977.0,966.0,False
+135,Invesco Morningstar US Energy Infrastructure MLP UCITS ETF B,-2.72,-8.31,-31.97,-47.82,-52.45,-57.87,-69.96,5877.0,978.0,967.0,False
+136,Invesco MSCI Emerging Markets UCITS ETF Acc,-1.2,-0.51,4.3,-6.8,2.4,6.96,41.31,2803.0,567.0,404.0,False
+137,Invesco MSCI Europe ESG Leaders Catholic Principles UCITS ETF Dist,1.14,1.83,-0.02,-9.37,-2.15,,,2140.0,335.0,482.0,False
+138,Invesco MSCI Europe ESG Universal Screened UCITS ETF,1.03,1.98,1.12,-6.83,1.97,,,1673.0,143.0,230.0,False
+139,Invesco MSCI Europe ex-UK UCITS ETF Acc,1.49,2.55,1.32,-6.13,5.3,11.12,,1546.0,107.0,89.0,False
+140,Invesco MSCI Europe UCITS ETF Acc,1.36,2.29,-1.32,-11.12,-3.73,5.62,16.61,2733.0,535.0,369.0,False
+141,Invesco MSCI Europe Value UCITS ETF,1.69,1.97,-5.33,-21.49,-13.36,-13.4,-6.15,3747.0,814.0,705.0,False
+142,Invesco MSCI Japan UCITS ETF Acc,0.6,3.71,-2.91,-7.74,0.6,12.89,27.47,2398.0,428.0,245.0,False
+143,Invesco MSCI USA ESG Universal Screened UCITS ETF,-2.49,2.71,6.55,5.34,,,,1167.0,35.0,148.0,False
+144,Invesco MSCI USA UCITS ETF Acc,-2.52,1.47,2.32,1.8,9.73,49.67,80.09,1774.0,176.0,83.0,False
+145,Invesco MSCI World ESG Universal Screened UCITS ETF,-1.38,1.68,2.24,0.86,,,,1515.0,101.0,325.0,False
+146,Invesco MSCI World UCITS ETF Acc,-1.44,1.61,0.98,-2.68,4.62,31.6,54.36,2198.0,351.0,187.0,False
+147,Invesco NASDAQ Biotech UCITS ETF Acc,-1.75,-5.58,-6.56,0.99,,,,2832.0,576.0,919.0,False
+148,Invesco Preferred Shares UCITS ETF EUR Hgd Dist,-0.93,1.19,0.75,-2.75,-4.2,,,2530.0,478.0,657.0,False
+149,Invesco Quantitative Strategies ESG Global Equity Multi-factor UCITS ETF Acc,-1.46,0.88,0.49,-6.6,6.23,,,2395.0,427.0,612.0,False
+150,Invesco Quantitative Strategies ESG Global Equity Multi-factor UCITS ETF - EUR PfHdg Acc,-2.25,2.2,13.82,-3.22,8.77,,,1608.0,127.0,204.0,False
+151,Invesco Russell 2000 UCITS ETF Acc,-2.12,-0.92,-5.02,-13.2,-5.28,13.62,30.69,4147.0,879.0,812.0,False
+152,Invesco S&P 500 ESG UCITS ETF,-2.35,1.54,3.04,,,,,1390.0,65.0,576.0,False
+153,Invesco S&P 500 High Dividend Low Volatility UCITS ETF Dist,1.95,0.98,-12.44,-25.6,-22.79,-14.2,3.62,4092.0,868.0,797.0,False
+154,Invesco S&P 500 QVM UCITS ETF Dist,-1.66,2.44,1.96,-4.92,0.49,31.47,,2111.0,322.0,264.0,False
+155,Invesco S&P 500 UCITS ETF,-3.06,1.75,6.25,5.64,14.25,34.37,70.19,1506.0,98.0,48.0,False
+156,Invesco S&P 500 UCITS ETF Acc,-2.0,1.58,1.73,0.73,8.6,48.49,80.69,1822.0,192.0,96.0,False
+157,Invesco S&P 500 UCITS ETF Dist,-2.0,1.56,1.19,-0.26,6.52,40.12,,2007.0,275.0,229.0,False
+158,Invesco STOXX Europe 600 Optimised Automobiles & Parts UCITS ETF Acc,6.54,11.07,5.52,-13.88,-7.3,-15.92,-6.4,2545.0,487.0,297.0,False
+159,Invesco STOXX Europe 600 Optimised Banks UCITS ETF Acc,0.4,1.02,-12.87,-35.17,-24.35,-43.04,-46.21,4722.0,933.0,889.0,False
+160,Invesco STOXX Europe 600 Optimised Basic Resources UCITS ETF Acc,0.33,1.55,3.39,-7.0,3.9,12.14,68.88,1983.0,264.0,131.0,False
+161,Invesco STOXX Europe 600 Optimised Chemicals UCITS ETF Acc,3.04,5.25,9.59,5.24,15.59,27.39,46.78,398.0,4.0,3.0,True
+162,Invesco STOXX Europe 600 Optimised Construction & Materials UCITS ETF Acc,1.1,2.34,1.75,-8.67,2.98,7.76,31.37,1947.0,245.0,122.0,False
+163,Invesco STOXX Europe 600 Optimised Financial Services UCITS ETF Acc,-0.08,-1.03,1.65,-5.0,10.84,24.08,38.15,2539.0,480.0,294.0,False
+164,Invesco STOXX Europe 600 Optimised Food & Beverage UCITS ETF Acc,2.21,2.83,-2.7,-14.24,-18.44,3.18,25.33,2955.0,610.0,463.0,False
+165,Invesco STOXX Europe 600 Optimised Health Care UCITS ETF Acc,1.94,0.84,-1.43,-0.28,8.06,28.68,26.96,1808.0,186.0,91.0,False
+166,Invesco STOXX Europe 600 Optimised Industrial Goods & Services UCITS ETF Acc,1.73,3.5,4.62,-6.45,6.71,15.68,42.8,1281.0,50.0,30.0,False
+167,Invesco STOXX Europe 600 Optimised Insurance UCITS ETF,1.84,3.14,-3.86,-18.22,-7.95,5.0,14.83,2993.0,626.0,480.0,False
+168,Invesco STOXX Europe 600 Optimised Media UCITS ETF Acc,2.14,3.83,-3.95,-19.47,-15.86,2.4,-9.11,3306.0,727.0,600.0,False
+169,Invesco STOXX Europe 600 Optimised Oil & Gas UCITS ETF,-0.57,-2.46,-11.89,-32.92,-28.77,-17.15,-1.77,5309.0,966.0,949.0,False
+170,Invesco STOXX Europe 600 Optimised Personal & Household Goods UCITS ETF Acc,2.93,4.9,2.13,0.08,1.77,6.29,28.69,1260.0,48.0,27.0,True
+171,Invesco STOXX Europe 600 Optimised Retail UCITS ETF,0.33,2.8,2.45,-0.8,13.52,25.77,8.39,1600.0,125.0,60.0,False
+172,Invesco STOXX Europe 600 Optimised Technology UCITS ETF,-2.7,-0.15,5.94,9.27,18.5,38.0,81.9,1795.0,181.0,87.0,False
+173,Invesco STOXX Europe 600 Optimised Telecommunications UCITS ETF,2.31,1.77,-3.98,-16.67,-10.73,-19.77,-32.01,3670.0,806.0,693.0,False
+174,Invesco STOXX Europe 600 Optimised Travel & Leisure UCITS ETF,-0.88,3.88,-8.0,-31.99,-21.68,-19.38,-17.42,4444.0,911.0,856.0,False
+175,Invesco STOXX Europe 600 Optimised Utilities UCITS ETF,0.58,-1.88,0.46,-0.55,8.01,24.95,38.06,2373.0,422.0,236.0,False
+176,Invesco STOXX Europe 600 UCITS ETF Acc,1.19,1.87,-0.58,-9.92,-2.42,6.94,18.53,2675.0,514.0,336.0,False
+177,Invesco STOXX Europe Mid 200 UCITS ETF Acc,0.84,0.97,-1.51,-12.25,0.48,3.64,20.22,2920.0,603.0,451.0,False
+178,Invesco STOXX Europe Small 200 UCITS ETF Acc,0.39,1.83,4.88,-7.6,2.53,10.6,26.51,2044.0,291.0,149.0,False
+179,Invesco USD Corporate Bond UCITS ETF Dist,0.87,-2.06,-3.32,-0.27,,,,2191.0,347.0,733.0,False
+180,Invesco USD Floating Rate Note UCITS ETF EUR Hdg Dist,0.1,0.23,0.8,-2.83,-3.92,,,2459.0,450.0,633.0,False
+181,Invesco US High Yield Fallen Angels UCITS ETF Dist,0.43,0.96,-1.62,-8.41,-9.27,-7.8,,3296.0,725.0,738.0,False
+182,Invesco US High Yield Fallen Angels UCITS ETF EUR Hdg Acc,-0.69,1.2,4.24,-1.83,0.49,,,1936.0,240.0,354.0,False
+183,Invesco US Treasury Bond 0-1 Year UCITS ETF Dist,-3.18,-3.18,-5.6,,,,,2677.0,515.0,975.0,False
+184,Invesco US Treasury Bond 0-1 Year UCITS ETF EUR Hdg Acc,-0.07,-0.07,-0.35,,,,,1757.0,169.0,801.0,False
+185,Invesco US Treasury Bond 1-3 Year UCITS ETF Dist,1.06,-0.47,-4.6,-3.16,-5.07,,,2794.0,562.0,750.0,False
+186,Invesco US Treasury Bond 3-7 Year UCITS ETF Dist,1.08,0.44,-4.58,-1.6,0.4,,,2213.0,358.0,525.0,False
+187,Invesco US Treasury Bond 7-10 Year UCITS ETF Dist,1.15,-0.94,-3.25,3.58,-1.22,,,2312.0,400.0,575.0,False
+188,Invesco US Treasury Bond 7-10 Year UCITS ETF - EUR Hdg Dist,0.04,-0.82,1.48,9.04,3.37,,,1956.0,255.0,373.0,False
+189,Invesco US Treasury Bond UCITS ETF Dist,1.23,-1.01,-4.38,2.14,-1.65,,,2441.0,441.0,622.0,False
+191,iShares $ Corp Bond 0-3yr ESG UCITS ETF USD (Dist),0.34,-0.54,-4.17,-3.91,-5.34,,,3044.0,647.0,831.0,False
+192,iShares $ Corp Bond ESG UCITS ETF USD (Acc),0.85,-1.1,-1.88,,,,,1760.0,172.0,802.0,False
+193,iShares $ Corp Bond ESG UCITS ETF USD (Dist),0.19,-2.25,-3.62,,,,,2138.0,334.0,921.0,False
+194,iShares $ Corp Bond UCITS ETF USD (Dist),0.79,-2.85,-2.88,0.34,-1.54,12.79,11.41,3130.0,676.0,533.0,False
+195,iShares $ Corporate Bond Interest Rate Hedged UCITS ETF ,0.68,-1.37,-4.71,-10.2,-9.24,-0.49,-4.5,4199.0,883.0,822.0,False
+196,iShares $ Floating Rate Bond UCITS ETF EUR Hedged (Dist),0.04,0.06,0.75,-1.58,-2.88,,,2452.0,447.0,629.0,False
+197,iShares $ Floating Rate Bond UCITS ETF USD (Dist),1.16,-0.13,-3.65,-5.8,-7.46,1.65,,3172.0,691.0,699.0,False
+198,iShares $ High Yield Corp Bond UCITS ETF EUR Hedged (Dist),-0.68,-0.56,1.04,-4.2,-5.47,,,2908.0,602.0,793.0,False
+199,iShares $ High Yield Corp Bond UCITS ETF USD (Dist),0.52,-0.77,-3.09,-7.86,-9.45,-3.02,-7.98,4093.0,869.0,798.0,False
+200,iShares $ Intermediate Credit Bond UCITS ETF,0.88,0.34,-4.07,-3.21,-4.75,2.2,,2982.0,621.0,644.0,False
+201,iShares $ Short Duration Corporate Bond UCITS ETF ,1.05,-0.46,-4.23,-3.23,-4.84,4.95,-1.03,3479.0,766.0,644.0,False
+202,iShares $ Short Duration High Yield Corp Bond UCITS ETF USD (Dist),0.7,-0.34,-5.14,-7.75,-9.75,-4.02,-10.43,4074.0,865.0,795.0,False
+203,iShares $ TIPS 0-5 UCITS ETF,0.8,0.14,-2.49,-3.63,-5.92,0.73,,3027.0,640.0,655.0,False
+204,iShares $ TIPS UCITS ETF ,0.66,-0.19,0.17,3.6,1.8,19.02,18.75,2237.0,365.0,202.0,False
+205,iShares $ TIPS UCITS ETF EUR Hedged (Acc),-0.51,0.01,4.55,8.47,7.11,,,1617.0,129.0,207.0,False
+206,iShares $ Treasury Bond 0-1yr UCITS ETF USD (Dist),1.1,-0.28,-4.39,-5.34,-7.1,,,2863.0,585.0,775.0,False
+207,iShares $ Treasury Bond 1-3yr UCITS ETF USD (Dist),1.08,-0.33,-4.3,-3.39,-5.41,3.7,-3.32,3510.0,772.0,651.0,False
+208,iShares $ Treasury Bond 20+yr UCITS ETF ,1.74,-4.13,-0.67,13.88,4.69,28.5,26.0,2099.0,317.0,169.0,False
+209,iShares $ Treasury Bond 3-7yr UCITS ETF USD (Acc),-0.02,-0.17,0.91,7.47,6.61,13.71,17.29,2264.0,381.0,208.0,False
+210,iShares $ Treasury Bond 7-10yr UCITS ETF USD (Dist),1.16,-0.95,-2.77,4.41,-0.32,13.14,6.86,2700.0,522.0,345.0,False
+211,iShares $ Treasury Bond UCITS ETF USD (Dist),1.22,-3.24,-5.05,2.15,-0.44,,,2467.0,454.0,635.0,False
+212,iShares $ Ultrashort Bond UCITS ETF USD (Dist),1.08,-0.27,-4.97,-5.2,-6.91,1.87,-5.01,3682.0,809.0,696.0,False
+213,iShares € Aggregate Bond UCITS ETF EUR (Dist),0.21,-0.38,1.31,1.21,-1.18,5.23,7.27,2793.0,561.0,399.0,False
+214,iShares € Corp Bond 1-5yr UCITS ETF EUR (Dist),0.05,0.09,0.58,-0.54,-0.86,0.1,2.09,3043.0,646.0,497.0,False
+215,iShares € Corp Bond BBB-BB UCITS ETF EUR (Dist),0.27,0.28,0.73,-1.38,-1.56,1.29,5.96,2967.0,615.0,469.0,False
+216,iShares € Corp Bond ESG UCITS ETF EUR (Dist),0.19,0.0,1.2,0.31,-0.76,,,2086.0,312.0,452.0,False
+217,iShares € Corp Bond ex-Financials 1-5yr UCITS ETF EUR (Dist),-0.05,-0.02,0.48,-0.69,-0.94,0.03,1.7,3167.0,689.0,557.0,False
+218,iShares € Corp Bond ex-Financials UCITS ETF EUR (Dist),0.17,-0.1,0.86,-0.28,-1.14,2.21,5.54,2964.0,613.0,466.0,False
+219,iShares € Corp Bond Financials UCITS ETF EUR (Dist),0.08,-0.05,1.19,-0.29,-1.41,1.6,6.12,2972.0,616.0,472.0,False
+220,iShares € Corp Bond Interest Rate Hedged UCITS ETF EUR (Dist),0.02,0.07,0.16,-1.26,-0.45,-2.12,-3.07,3187.0,695.0,560.0,False
+221,iShares € Corp Bond Large Cap UCITS ETF EUR (Dist),0.27,-0.24,0.86,0.29,-0.98,2.49,6.28,2892.0,598.0,440.0,False
+222,iShares € Covered Bond UCITS ETF EUR (Dist),0.2,0.03,0.62,0.95,-0.88,2.59,3.08,2852.0,581.0,427.0,False
+223,iShares € Floating Rate Bond UCITS ETF EUR (Dist),0.01,0.15,0.57,-0.4,-0.38,,,2240.0,367.0,537.0,False
+224,iShares € Govt Bond 0-1yr UCITS ETF EUR (Dist),-0.03,-0.08,-0.1,-0.44,-0.67,-1.84,-2.81,3259.0,716.0,590.0,False
+225,iShares € Govt Bond 10-15yr UCITS ETF EUR (Dist),0.44,-0.81,2.83,2.71,-1.27,12.57,18.03,2401.0,429.0,246.0,False
+226,iShares € Govt Bond 1-3yr UCITS ETF EUR (Dist),0.01,-0.04,0.2,-0.29,-0.82,-0.55,0.08,3151.0,686.0,544.0,False
+227,iShares € Govt Bond 15-30yr UCITS ETF EUR (Dist),0.85,-1.47,5.07,5.73,-1.57,20.57,27.43,2129.0,327.0,174.0,False
+228,iShares € Govt Bond 20yr Target Duration UCITS ETF EUR (Dist),1.1,-1.51,4.57,7.11,-0.73,,,1706.0,151.0,241.0,False
+229,iShares € Govt Bond 3-5yr UCITS ETF EUR (Dist),0.07,-0.1,0.59,0.44,-0.84,2.4,4.95,2963.0,611.0,465.0,False
+230,iShares € Govt Bond 3-7yr UCITS ETF EUR (Acc),0.12,-0.13,0.86,0.91,-0.72,3.55,6.88,2824.0,573.0,414.0,False
+231,iShares € Govt Bond 5-7yr UCITS ETF EUR (Dist),0.16,-0.23,1.2,1.28,-0.77,5.42,8.63,2726.0,530.0,362.0,False
+232,iShares € Govt Bond 7-10yr UCITS ETF EUR (Acc),0.38,-0.45,1.87,2.3,-0.83,10.6,17.69,2409.0,431.0,248.0,False
+233,iShares € Govt Bond 7-10yr UCITS ETF EUR (Dist),0.42,-0.44,1.84,2.17,-1.2,8.28,13.74,2494.0,461.0,273.0,False
+234,iShares € High Yield Corp Bond UCITS ETF,0.04,0.87,1.16,-5.09,-5.55,-7.72,-3.87,3420.0,750.0,625.0,False
+235,iShares € Inflation Linked Govt Bond UCITS ETF EUR (Acc),-0.16,-1.27,2.9,-0.55,-2.67,5.3,10.64,3139.0,682.0,540.0,False
+236,iShares Ageing Population UCITS ETF USD (Acc),0.08,-0.59,-3.56,-11.89,-1.39,4.22,,3529.0,773.0,805.0,False
+237,iShares Asia Pacific Dividend UCITS ETF USD (Dist),0.67,2.74,-12.33,-26.44,-25.95,-29.9,-17.23,4259.0,889.0,830.0,False
+238,iShares Asia Property Yield UCITS ETF USD (Acc),1.14,3.94,-6.32,-21.42,-21.55,,,2794.0,562.0,750.0,False
+239,iShares Asia Property Yield UCITS ETF USD (Dist),1.07,2.97,-6.94,-23.77,-24.1,-11.31,2.0,3815.0,830.0,727.0,False
+240,iShares ATX UCITS ETF (DE),1.75,2.84,-9.73,-28.97,-23.8,-28.91,2.69,3856.0,836.0,742.0,False
+241,iShares Automation & Robotics UCITS ETF USD (Acc),-2.41,1.24,3.19,4.45,16.95,41.51,,1620.0,132.0,111.0,False
+242,iShares Automation & Robotics UCITS ETF USD (Dist),-2.45,1.43,3.04,4.24,16.92,,,1574.0,116.0,190.0,False
+243,iShares BRIC 50 UCITS ETF USD (Dist),-3.93,1.07,3.79,-2.77,6.99,20.05,52.84,2274.0,386.0,213.0,False
+244,iShares China CNY Bond UCITS ETF USD (Dist),0.91,1.27,-3.54,-3.15,-2.7,,,2365.0,420.0,603.0,False
+245,iShares China Large Cap UCITS ETF USD (Dist),-2.21,1.16,0.97,-6.9,-1.27,-0.4,16.56,3271.0,723.0,597.0,False
+246,iShares Core € Corp Bond UCITS ETF EUR (Dist),0.32,-0.04,0.86,-0.45,-1.17,2.45,6.14,2890.0,596.0,439.0,False
+247,iShares Core € Govt Bond UCITS ETF EUR (Dist),0.39,-0.51,1.91,2.09,-0.88,8.24,11.25,2509.0,469.0,282.0,False
+248,iShares Core EURO STOXX 50 UCITS ETF EUR (Acc),1.57,2.35,-0.31,-9.71,-2.33,5.6,20.39,2504.0,467.0,279.0,False
+249,iShares Core EURO STOXX 50 UCITS ETF EUR (Dist),1.52,1.05,-1.73,-11.7,-4.72,-3.52,3.2,3319.0,733.0,607.0,False
+250,iShares Core FTSE 100 UCITS ETF GBP (Acc),0.72,-0.13,-7.8,-23.69,-15.56,-7.57,-4.55,4428.0,910.0,854.0,False
+251,iShares Core FTSE 100 UCITS ETF GBP (Dist),0.61,-0.3,-8.48,-25.52,-19.12,-18.91,,4216.0,884.0,916.0,False
+252,iShares Core MSCI EM IMI UCITS ETF USD (Acc),-0.96,0.2,4.89,-6.53,3.05,8.01,42.6,2522.0,475.0,289.0,False
+253,iShares Core MSCI EM IMI UCITS ETF USD (Dist),-0.91,0.21,4.87,-7.26,0.44,,,2291.0,392.0,565.0,False
+254,iShares Core MSCI EMU UCITS ETF,1.35,2.5,-0.14,-9.57,-3.02,3.74,21.62,2571.0,495.0,306.0,False
+255,iShares Core MSCI Europe UCITS ETF EUR (Acc),1.35,2.04,-0.92,-11.05,-3.62,5.64,17.08,2729.0,532.0,366.0,False
+256,iShares Core MSCI Europe UCITS ETF EUR (Dist),1.34,1.32,-1.56,-12.7,-6.1,-2.97,1.5,3358.0,741.0,615.0,False
+257,iShares Core MSCI Japan IMI UCITS ETF USD (Acc),0.83,3.24,-2.77,-7.5,0.4,11.9,30.49,2324.0,407.0,226.0,False
+258,iShares Core MSCI Pacific ex-Japan UCITS ETF USD (Acc),-0.33,1.72,-2.66,-13.53,-10.62,4.43,32.15,3554.0,781.0,662.0,False
+259,iShares Core MSCI World UCITS ETF,-1.43,1.65,1.01,-2.75,4.5,31.36,54.64,2186.0,346.0,185.0,False
+260,iShares Core MSCI World UCITS ETF EUR Hedged (Dist),-2.19,1.75,3.7,-0.28,6.69,,,1751.0,166.0,257.0,False
+261,iShares Core S&P 500 UCITS ETF USD (Acc),-1.96,1.57,1.71,0.56,8.35,47.56,79.47,1849.0,203.0,101.0,False
+262,iShares Core S&P 500 UCITS ETF USD (Dist),-1.98,1.6,1.34,-0.28,6.56,40.55,65.48,2010.0,276.0,137.0,False
+263,iShares DAX  UCITS ETF (DE),2.03,4.42,3.14,-0.58,8.02,5.4,24.34,1253.0,46.0,26.0,False
+264,iShares Developed Markets Property Yield UCITS ETF USD (Dist),0.88,-0.36,-9.47,-23.57,-23.46,-11.55,-4.98,4561.0,916.0,866.0,False
+265,iShares Digitalisation UCITS ETF USD (Acc),-5.2,-2.1,6.06,12.58,16.54,55.56,,2054.0,299.0,244.0,False
+266,iShares Digital Security UCITS ETF,-3.74,-3.23,-0.64,-0.64,7.5,,,2891.0,597.0,790.0,False
+267,iShares Digital Security UCITS ETF USD (Dist),-3.73,-3.08,-1.42,-1.07,6.21,,,2963.0,611.0,813.0,False
+268,iShares DivDAX  UCITS ETF (DE),3.68,7.32,2.4,-3.84,5.94,0.04,14.9,1521.0,103.0,50.0,False
+269,iShares Diversified Commodity Swap UCITS ETF,-1.65,1.17,6.06,-16.43,-13.18,,,2848.0,580.0,771.0,False
+270,iShares Dow Jones Asia Pacific Select Dividend 30 UCITS ETF (DE),0.24,2.7,-12.61,-27.12,-26.69,-29.9,-20.16,4416.0,909.0,853.0,False
+271,iShares Dow Jones China Offshore 50 UCITS ETF (DE),-3.42,1.15,5.69,5.14,15.15,15.36,51.75,1812.0,188.0,92.0,False
+272,iShares Dow Jones Eurozone Sustainability Screened UCITS ETF (DE),2.03,2.62,-0.19,-10.61,-3.72,-2.75,9.11,2756.0,542.0,380.0,False
+273,iShares Dow Jones Global Sustainability Screened UCITS ETF USD (Acc),-0.49,1.75,0.75,-3.25,5.08,28.27,51.85,2133.0,331.0,176.0,False
+274,iShares Dow Jones Global Titans 50 UCITS ETF (DE),-2.47,1.73,4.71,4.96,14.1,48.24,71.04,1505.0,97.0,47.0,False
+275,iShares Dow Jones Industrial Average UCITS ETF (DE),-0.63,2.52,-2.4,-7.24,-2.17,30.75,61.08,2738.0,536.0,372.0,False
+276,iShares Dow Jones Industrial Average UCITS ETF USD (Acc),-0.59,2.64,-1.83,-6.06,-0.59,37.59,77.19,2448.0,444.0,256.0,False
+277,iShares Dow Jones U.S. Select Dividend UCITS ETF (DE),1.14,0.69,-11.31,-24.57,-20.82,-6.07,9.4,4134.0,874.0,806.0,False
+278,iShares Dow Jones-UBS Commodity Swap UCITS ETF (DE),-1.68,1.01,5.57,-17.2,-14.05,-12.72,-23.51,3930.0,841.0,757.0,False
+279,iShares eb.rexx  Government Germany 1.5-2.5yr UCITS ETF (DE),0.02,-0.26,-0.3,-1.16,-2.07,-5.27,-8.31,3565.0,784.0,668.0,False
+280,iShares eb.rexx  Government Germany 10.5+yr UCITS ETF (DE),1.11,-1.73,2.96,4.21,-3.76,13.89,16.41,2403.0,430.0,247.0,False
+281,iShares eb.rexx  Government Germany 2.5-5.5yr UCITS ETF (DE),0.09,-0.32,0.04,-0.54,-2.39,-3.36,-5.08,3454.0,759.0,636.0,False
+282,iShares eb.rexx  Government Germany 5.5-10.5yr UCITS ETF (DE),0.28,-0.6,0.8,0.93,-2.77,2.29,3.81,3107.0,670.0,528.0,False
+283,iShares eb.rexx  Government Germany UCITS ETF (DE),0.09,-0.43,0.26,0.2,-2.22,-0.72,-1.24,3308.0,729.0,601.0,False
+284,iShares eb.rexx  Money Market UCITS ETF (DE) ,0.0,-0.33,-0.39,-1.31,-1.85,-5.47,-9.26,3607.0,796.0,682.0,False
+285,iShares Edge MSCI EM Minimum Volatility UCITS ETF USD (Acc),-0.14,0.51,0.37,-9.33,-7.28,5.28,20.0,3410.0,748.0,620.0,False
+286,iShares Edge MSCI EMU Multifactor UCITS ETF EUR (Acc),1.63,2.48,0.5,-9.73,-3.08,,,1943.0,243.0,359.0,False
+287,iShares Edge MSCI Europe Minimum Volatility ESG UCITS ETF EUR (Acc),1.43,1.73,0.56,,,,,866.0,16.0,139.0,True
+288,iShares Edge MSCI Europe Minimum Volatility UCITS ETF EUR (Acc),1.57,1.9,1.19,-7.24,-2.19,11.99,23.45,2198.0,351.0,187.0,False
+289,iShares Edge MSCI Europe Momentum Factor UCITS ETF EUR (Acc),0.07,0.48,5.93,2.19,8.94,23.85,41.59,1619.0,131.0,62.0,True
+290,iShares Edge MSCI Europe Multifactor UCITS ETF EUR (Acc),0.83,1.05,2.45,-9.27,-1.34,6.07,,2316.0,402.0,348.0,False
+291,iShares Edge MSCI Europe Quality Factor UCITS ETF ,1.58,2.5,1.44,-6.92,2.0,19.97,30.8,1693.0,147.0,68.0,False
+292,iShares Edge MSCI Europe Size Factor UCITS ETF EUR (Acc),-0.17,2.7,-1.14,-10.63,-1.64,3.84,18.16,3050.0,651.0,502.0,False
+293,iShares Edge MSCI Europe Value Factor UCITS ETF EUR (Acc),1.97,2.31,-5.52,-19.36,-10.07,-9.47,-1.88,3556.0,782.0,664.0,False
+294,iShares Edge MSCI USA Minimum Volatility ESG UCITS ETF USD (Acc),-0.34,0.62,-1.59,,,,,1756.0,167.0,800.0,False
+295,iShares Edge MSCI USA Momentum Factor UCITS ETF USD (Acc),-5.61,0.6,9.24,9.16,10.81,62.13,,1656.0,138.0,117.0,False
+296,iShares Edge MSCI USA Multifactor UCITS ETF,-1.64,0.09,-2.38,-7.94,-1.01,23.68,,3175.0,692.0,700.0,False
+297,iShares Edge MSCI USA Quality Factor UCITS ETF USD (Acc),-1.75,1.4,-0.43,-1.39,6.55,47.42,,2273.0,384.0,326.0,False
+298,iShares Edge MSCI USA Size Factor UCITS ETF USD (Acc),-1.36,-0.1,-5.04,-8.43,-2.12,22.06,,3445.0,756.0,780.0,False
+299,iShares Edge MSCI USA Value Factor UCITS ETF USD (Acc),0.38,1.14,-10.06,-19.92,-11.81,8.89,,3544.0,777.0,808.0,False
+300,iShares Edge MSCI World Minimum Volatility ESG UCITS ETF USD (Acc),0.71,1.31,-2.2,,,,,1374.0,62.0,564.0,False
+301,iShares Edge MSCI World Minimum Volatility UCITS ETF EUR Hedged (Acc),0.4,0.35,1.07,-4.14,-2.19,15.87,,2441.0,441.0,424.0,False
+302,iShares Edge MSCI World Minimum Volatility UCITS ETF USD (Acc),0.58,0.09,-2.32,-7.67,-6.48,24.71,48.09,3029.0,641.0,494.0,False
+303,iShares Edge MSCI World Momentum Factor UCITS ETF ,-4.0,0.25,8.8,7.75,10.46,57.48,91.22,1721.0,155.0,72.0,False
+304,iShares Edge MSCI World Multifactor UCITS ETF EUR Hedged (Acc),-1.94,-0.19,1.76,-4.73,3.31,8.79,,2705.0,525.0,552.0,False
+305,iShares Edge MSCI World Multifactor UCITS ETF USD (Acc),-1.21,-0.25,-1.49,-8.08,-2.07,16.95,,3298.0,726.0,739.0,False
+306,iShares Edge MSCI World Quality Factor UCITS ETF ,-1.1,2.22,0.18,-2.55,5.5,37.86,60.33,2108.0,321.0,172.0,False
+307,iShares Edge MSCI World Size Factor UCITS ETF ,-0.31,1.45,-3.83,-11.39,-4.52,9.17,29.18,3440.0,754.0,632.0,False
+308,iShares Edge MSCI World Value Factor UCITS ETF ,1.02,1.95,-9.56,-20.97,-13.15,-4.27,7.53,3804.0,828.0,724.0,False
+309,iShares Edge S&P 500 Minimum Volatility UCITS ETF EUR Hedged (Acc),-1.27,0.9,2.83,-0.57,4.6,27.29,,2041.0,288.0,239.0,False
+310,iShares Edge S&P 500 Minimum Volatility UCITS ETF USD (Acc),-0.06,1.15,-1.3,-4.49,0.26,39.56,66.4,2501.0,465.0,277.0,False
+311,iShares Electric Vehicles and Driving Technology UCITS ETF USD (Acc),-0.26,6.45,4.75,-5.09,5.72,,,1469.0,84.0,154.0,False
+312,iShares EM Dividend UCITS ETF USD (Dist),0.41,-0.16,-10.68,-25.67,-23.31,-24.57,-4.44,4737.0,935.0,892.0,False
+313,iShares Emerging Asia Local Govt Bond UCITS ETF USD (Dist),0.73,-0.39,-3.84,-5.74,-4.9,5.63,6.1,3549.0,779.0,659.0,False
+314,iShares EM Infrastructure UCITS ETF USD (Dist),2.77,2.25,-14.08,-34.46,-29.2,-35.62,-27.98,4113.0,872.0,804.0,False
+315,iShares Euro Corporate Bond Sustainability Screened 0-3yr UCITS ETF ,0.02,0.06,0.42,0.06,-0.26,-0.22,,2619.0,505.0,506.0,False
+316,iShares Euro Dividend UCITS ETF EUR (Dist),2.92,2.66,-5.7,-28.1,-21.83,-27.31,-15.9,3793.0,825.0,720.0,False
+317,iShares Euro Government Bond Capped 1.5-10.5yr UCITS ETF (DE),0.23,-0.39,1.39,1.26,-1.58,5.1,6.37,2824.0,573.0,414.0,False
+318,iShares European Property Yield UCITS ETF EUR (Acc),0.9,0.94,-1.94,-15.16,-6.2,,,2796.0,565.0,753.0,False
+319,iShares European Property Yield UCITS ETF EUR (Dist),0.9,1.05,-3.27,-16.28,-8.28,-3.37,10.91,3659.0,802.0,689.0,False
+320,iShares EURO STOXX 50 ex-Financials UCITS ETF EUR (Acc),1.57,2.14,0.99,-6.32,0.27,14.9,34.05,1877.0,215.0,108.0,False
+321,iShares EURO STOXX 50 UCITS ETF (DE),1.52,2.35,-0.97,-10.67,-5.07,-3.21,2.24,3008.0,634.0,486.0,False
+322,iShares EURO STOXX Banks (DE),1.25,2.45,-11.97,-36.46,-25.9,-51.58,-57.07,4268.0,891.0,833.0,False
+323,iShares EURO STOXX Mid UCITS ETF EUR (Dist),1.54,1.84,-2.19,-11.32,-4.61,-2.87,15.24,3053.0,652.0,503.0,False
+324,iShares EURO STOXX Select Dividend 30 UCITS ETF (DE),2.99,2.58,-5.98,-28.52,-22.06,-27.18,-18.75,3828.0,832.0,731.0,False
+325,iShares EURO STOXX Small UCITS ETF EUR (Dist),1.31,2.69,1.85,-4.69,3.47,4.13,22.66,1806.0,184.0,90.0,False
+326,iShares EURO STOXX UCITS ETF (DE),1.16,2.26,-0.42,-9.22,-4.07,-2.76,6.82,2952.0,608.0,462.0,False
+327,iShares Euro Total Market Growth Large UCITS ETF EUR (Dist),0.73,1.6,2.34,-3.44,2.91,18.57,30.15,1858.0,205.0,103.0,False
+328,iShares Euro Total Market Value Large UCITS ETF EUR (Dist),2.34,3.78,-5.42,-21.43,-14.18,-21.27,-15.8,3581.0,789.0,674.0,False
+329,iShares Euro Ultrashort Bond UCITS ETF ,0.04,0.02,0.25,0.01,0.0,-0.27,-0.19,3014.0,636.0,489.0,False
+330,iShares EUR Ultrashort Bond ESG UCITS ETF EUR (Dist),0.06,0.2,0.82,,,,,1486.0,90.0,641.0,True
+331,iShares Fallen Angels High Yield Corp Bond UCITS ETF,0.53,-0.01,-2.07,1.43,1.25,8.29,,2344.0,413.0,370.0,False
+332,iShares Fallen Angels High Yield Corp Bond UCITS ETF EUR Hedged (Dist),-0.43,0.05,1.0,4.71,4.67,,,1910.0,226.0,335.0,False
+333,iShares Germany Govt Bond UCITS ETF EUR (Dist),0.4,-0.55,1.33,1.95,-1.68,6.24,9.62,2724.0,529.0,361.0,False
+334,iShares Global AAA-AA Govt Bond UCITS ETF USD (Dist),0.34,-0.62,0.08,1.96,-0.88,7.62,7.44,2855.0,584.0,429.0,False
+335,iShares Global Aggregate Bond UCITS ETF USD (Dist),0.75,-0.7,-2.41,-1.34,-3.22,,,2697.0,519.0,714.0,False
+336,iShares Global Clean Energy UCITS ETF USD (Dist),-3.49,2.8,23.73,32.03,37.72,81.3,63.47,1118.0,29.0,18.0,False
+337,iShares Global Corp Bond UCITS ETF EUR Hedged (Dist),0.05,-1.33,1.99,2.52,1.6,,,2092.0,314.0,455.0,False
+338,iShares Global Corp Bond UCITS ETF USD (Dist),0.63,-1.39,-0.99,-0.82,-2.46,7.44,7.18,3234.0,704.0,574.0,False
+339,iShares Global Corporate Bond EUR Hedged UCITS ETF ,-0.06,-1.32,1.82,2.48,1.0,0.76,3.24,2925.0,604.0,453.0,False
+340,iShares Global Govt Bond UCITS ETF USD (Dist),0.7,-1.0,-2.02,0.4,-2.84,8.78,7.78,3147.0,684.0,541.0,False
+341,iShares Global High Yield Corp Bond UCITS ETF EUR Hedged (Dist),-0.38,-0.18,1.21,-4.42,-4.56,,,2740.0,537.0,734.0,False
+342,iShares Global High Yield Corp Bond UCITS ETF USD (Dist),0.09,-0.3,-1.42,-7.05,-8.03,-4.08,-3.76,3959.0,849.0,765.0,False
+343,iShares Global Inflation Linked Govt Bond UCITS ETF EUR Hedged (Acc),0.46,-0.39,3.31,,,,,1292.0,52.0,492.0,False
+344,iShares Global Inflation Linked Govt Bond UCITS ETF USD (Acc),0.39,-0.61,0.74,2.72,0.69,13.92,14.98,2462.0,452.0,262.0,False
+345,iShares Global Infrastructure UCITS ETF USD (Dist),2.0,-1.09,-7.72,-13.02,-10.77,8.99,19.42,3682.0,809.0,696.0,False
+346,iShares Global Water UCITS ETF USD (Dist),1.68,1.11,-0.35,-6.0,1.91,24.7,47.42,2033.0,284.0,144.0,False
+347,iShares Gold Producers UCITS ETF USD (Acc),1.36,-2.47,22.74,36.21,33.54,73.21,204.07,1110.0,28.0,17.0,False
+348,iShares Healthcare Innovation UCITS ETF USD (Acc),-0.96,-3.26,4.65,14.49,28.21,47.85,,1900.0,220.0,197.0,False
+349,iShares Italy Govt Bond UCITS ETF EUR (Dist),0.09,-0.6,2.5,2.61,-0.66,7.62,8.39,2594.0,499.0,311.0,False
+350,iShares IV PLC iShares TA-25 Israel UCITS ETF Cap ,-4.88,-5.37,-13.05,-25.01,-19.13,-2.18,,4993.0,951.0,965.0,False
+351,iShares J.P. Morgan $ EM Bond EUR Hedged UCITS ETF (Dist),0.05,-0.69,3.26,-2.41,-4.07,-10.49,-5.26,3456.0,761.0,638.0,False
+353,iShares J.P. Morgan $ EM Bond UCITS ETF USD (Dist),1.19,-0.85,-0.8,-6.17,-8.14,-0.71,0.32,3578.0,788.0,672.0,False
+354,iShares J.P. Morgan $ EM Corp Bond UCITS ETF USD (Dist),1.34,0.05,-2.84,-4.19,-5.41,2.41,1.84,3255.0,713.0,587.0,False
+355,iShares J.P. Morgan EM Local Govt Bond UCITS ETF USD (Dist),0.42,0.45,-6.87,-14.41,-12.3,-15.73,-12.31,4281.0,894.0,835.0,False
+356,iShares J.P. Morgan ESG $ EM Bond UCITS ETF EUR Hedged (Acc),0.14,-0.57,4.65,2.3,,,,1552.0,108.0,357.0,False
+357,iShares J.P. Morgan ESG $ EM Bond UCITS ETF USD (Dist),1.2,-0.76,0.52,-4.76,-7.06,,,2574.0,496.0,681.0,False
+358,iShares J.P. Morgan USD EM Bond UCITS ETF EUR Hedged (Acc),0.03,-0.36,4.42,0.2,0.4,,,1997.0,269.0,401.0,False
+359,iShares J.P. Morgan USD EM Corp Bond UCITS ETF EUR Hedged (Acc),0.14,0.09,4.02,,,,,1236.0,43.0,437.0,True
+360,iShares Listed Private Equity UCITS ETF USD (Dist),-1.66,-1.57,-7.45,-20.06,-14.83,3.05,10.46,4790.0,941.0,900.0,False
+361,iShares MDAX  UCITS ETF (DE) ,0.06,1.57,1.91,-3.15,5.33,8.17,34.58,2097.0,315.0,167.0,False
+362,iShares MSCI AC Far East ex-Japan UCITS ETF USD (Dist),-1.52,0.06,5.23,-0.57,7.58,10.53,42.87,2247.0,368.0,203.0,False
+363,iShares MSCI ACWI UCITS ETF USD (Acc),-1.44,1.38,1.27,-3.75,3.94,27.52,51.59,2314.0,401.0,225.0,False
+364,iShares MSCI Australia UCITS ETF USD (Acc),-0.5,0.34,-2.99,-13.96,-10.97,4.62,33.33,3839.0,834.0,736.0,False
+365,iShares MSCI Brazil UCITS ETF (DE) (Acc),3.11,-0.35,-3.64,-34.2,-24.36,,,3243.0,705.0,862.0,False
+366,iShares MSCI Brazil UCITS ETF USD (Dist),1.7,-0.52,-7.25,-35.0,-28.7,-24.66,,4123.0,873.0,901.0,False
+367,iShares MSCI Canada UCITS ETF USD (Acc),-1.13,0.66,0.97,-9.62,-6.18,8.11,24.56,3318.0,732.0,606.0,False
+368,iShares MSCI China A UCITS ETF ,-3.92,-0.5,16.68,15.57,19.66,27.42,26.46,2004.0,274.0,136.0,False
+369,iShares MSCI China UCITS ETF USD (Acc),-3.73,0.09,9.66,7.87,18.76,,,1633.0,134.0,218.0,False
+370,iShares MSCI Eastern Europe Capped UCITS ETF USD (Dist),-3.57,-6.21,-10.35,-27.9,-22.45,-10.22,,5085.0,956.0,970.0,False
+371,iShares MSCI EM Asia UCITS ETF USD (Acc),-1.4,-0.11,7.66,1.2,11.94,17.47,57.58,1955.0,252.0,126.0,False
+372,iShares MSCI EM Consumer Growth UCITS ETF USD (Acc),-2.05,1.44,5.56,-0.52,7.55,11.27,46.18,2044.0,291.0,149.0,False
+373,iShares MSCI Emerging Markets UCITS ETF (Dist),-1.2,-0.15,3.61,-6.96,0.72,1.43,30.08,2966.0,614.0,468.0,False
+374,iShares MSCI EM ESG Enhanced UCITS ETF USD (Acc),-1.13,-0.17,4.97,-6.31,,,,2042.0,290.0,670.0,False
+375,iShares MSCI EM IMI ESG Screened UCITS ETF USD (Acc),-0.92,0.08,4.78,-5.37,3.95,,,2153.0,338.0,491.0,False
+376,iShares MSCI EM IMI ESG Screened UCITS ETF USD (Dist),-1.05,0.1,4.0,-6.13,1.75,,,2259.0,378.0,555.0,False
+377,iShares MSCI EM Latin America UCITS ETF USD (Dist),1.18,-0.29,-8.96,-34.53,-29.39,-31.12,-5.82,4654.0,923.0,876.0,False
+378,iShares MSCI EM Small Cap UCITS ETF USD (Dist),0.33,1.48,5.99,-8.35,-1.62,-8.44,11.09,2780.0,550.0,389.0,False
+379,iShares MSCI EM SRI UCITS ETF USD (Acc),-2.02,-0.17,3.78,-10.96,-2.06,8.08,,3093.0,664.0,684.0,False
+380,iShares MSCI EM SRI UCITS ETF USD (Dist),-2.0,-0.07,2.67,-11.84,-4.69,,,2982.0,621.0,816.0,False
+381,iShares MSCI EM UCITS ETF USD (Acc),-1.24,-0.18,4.5,-6.81,2.99,7.73,42.06,2699.0,521.0,344.0,False
+382,iShares MSCI EMU ESG Enhanced UCITS ETF EUR (Acc),1.34,2.48,0.32,-8.25,-1.14,,,1841.0,202.0,308.0,False
+383,iShares MSCI EMU ESG Enhanced UCITS ETF EUR (Dist),1.3,2.63,-1.38,-9.42,-3.59,,,2130.0,330.0,478.0,False
+384,iShares MSCI EMU ESG Screened UCITS ETF EUR (Acc),1.29,2.43,0.41,-8.87,-1.77,,,1929.0,233.0,346.0,False
+385,iShares MSCI EMU ESG Screened UCITS ETF EUR (Dist),1.36,2.62,-0.97,-9.82,-3.45,,,2105.0,319.0,460.0,False
+386,iShares MSCI EMU Mid Cap UCITS ETF ,1.05,2.14,0.1,-7.29,0.41,6.64,29.89,2261.0,380.0,206.0,False
+387,iShares MSCI EMU Small Cap UCITS ETF EUR (Acc),0.62,1.99,0.71,-8.88,0.15,2.32,31.43,2494.0,461.0,273.0,False
+388,iShares MSCI EMU USD Hedged UCITS ETF ,2.29,-3.67,-2.03,-14.44,-7.44,12.6,25.85,3457.0,762.0,639.0,False
+389,iShares MSCI Europe ESG Enhanced UCITS ETF EUR (Acc),1.25,1.99,-0.48,-9.36,0.22,,,1945.0,244.0,360.0,False
+390,iShares MSCI Europe ESG Enhanced UCITS ETF EUR (Dist),1.01,2.34,-1.9,-10.49,-3.65,,,2330.0,409.0,591.0,False
+391,iShares MSCI Europe ESG Screened UCITS ETF EUR (Acc),1.36,1.97,0.39,-9.42,-1.88,,,1991.0,266.0,394.0,False
+392,iShares MSCI Europe ESG Screened UCITS ETF EUR (Dist),1.37,1.94,-1.24,-10.45,-3.83,,,2239.0,366.0,536.0,False
+393,iShares MSCI Europe ex-UK UCITS ETF EUR (Dist),1.5,2.55,0.28,-7.17,-0.83,3.55,12.75,2346.0,414.0,232.0,False
+394,iShares MSCI Europe Quality Dividend UCITS ETF,1.78,1.58,-3.53,-19.53,-12.23,-10.65,,3245.0,706.0,719.0,False
+395,iShares MSCI Europe SRI UCITS ETF EUR (Acc),1.61,2.7,1.95,-3.65,5.55,20.38,31.56,1394.0,66.0,36.0,False
+396,iShares MSCI Europe SRI UCITS ETF EUR (Dist),1.59,2.67,0.94,-4.88,3.66,,,1351.0,60.0,112.0,False
+397,iShares MSCI France UCITS ETF ,2.13,3.05,-1.47,-13.96,-6.95,7.62,30.28,2582.0,497.0,309.0,False
+398,iShares MSCI India UCITS ETF USD (Acc),-0.2,2.13,10.48,-11.05,-3.12,,,2143.0,336.0,483.0,False
+399,iShares MSCI Japan ESG Enhanced UCITS ETF USD (Acc),0.66,3.1,-2.85,-7.0,2.7,,,1962.0,257.0,376.0,False
+400,iShares MSCI Japan ESG Enhanced UCITS ETF USD (Dist),0.83,3.74,-1.7,-7.86,3.59,,,1807.0,185.0,290.0,False
+401,iShares MSCI Japan ESG Screened UCITS ETF USD (Acc),0.64,3.17,-2.56,-6.83,1.17,,,1981.0,262.0,385.0,False
+402,iShares MSCI Japan ESG Screened UCITS ETF USD (Dist),0.66,3.11,-3.55,-7.73,-0.65,,,2154.0,339.0,493.0,False
+403,iShares MSCI Japan EUR Hedged UCITS ETF (Acc),-0.02,3.58,-0.59,-5.26,5.92,5.16,12.53,2462.0,452.0,262.0,False
+404,iShares MSCI Japan Small Cap UCITS ETF (Dist) ,1.93,4.68,-3.22,-11.14,-2.87,0.74,28.54,2642.0,508.0,323.0,False
+405,iShares MSCI Japan SRI UCITS ETF,0.23,1.9,-4.14,-7.64,2.64,15.23,,2526.0,477.0,460.0,False
+406,iShares MSCI Japan SRI UCITS ETF USD (Dist),0.2,1.95,-5.84,-9.93,1.0,,,2543.0,486.0,666.0,False
+407,iShares MSCI Japan UCITS ETF USD (Acc),0.67,3.59,-2.92,-7.92,1.24,12.38,26.74,2382.0,425.0,240.0,False
+408,iShares MSCI Japan UCITS ETF USD (Dist),0.65,3.04,-3.7,-8.77,-1.27,7.06,17.58,2762.0,545.0,382.0,False
+409,iShares MSCI Korea UCITS ETF (Dist),2.92,0.59,3.71,-1.96,12.05,3.33,43.75,1560.0,112.0,55.0,False
+410,iShares MSCI Mexico Capped UCITS ETF USD (Acc),-0.67,-1.55,-11.33,-31.51,-27.36,-37.08,-34.09,5409.0,970.0,953.0,False
+411,iShares MSCI North America UCITS ETF USD (Dist),-2.43,1.35,1.75,0.09,6.83,39.36,62.76,2029.0,283.0,142.0,False
+412,iShares MSCI Pacific ex-Japan UCITS ETF USD (Dist),-0.21,1.85,-3.67,-15.49,-12.97,-6.85,8.95,4004.0,857.0,774.0,False
+413,iShares MSCI Poland UCITS ETF USD (Acc),-0.67,-2.4,-3.75,-22.16,-20.03,-30.51,-17.05,5098.0,957.0,935.0,False
+414,iShares MSCI Russia ADR/GDR UCITS ETF USD (Acc),-4.87,-7.42,-14.65,-32.39,-21.79,17.79,57.55,4841.0,944.0,907.0,False
+415,iShares MSCI Saudi Arabia Capped UCITS ETF USD (Acc),2.17,6.57,0.38,-11.34,-11.48,,,1963.0,258.0,378.0,False
+416,iShares MSCI Saudi Arabia Capped UCITS ETF USD (Dist),2.15,6.53,-1.43,-14.34,-19.16,,,2249.0,369.0,542.0,False
+417,iShares MSCI South Africa UCITS ETF ,-0.51,2.88,-1.69,-23.82,-19.88,-22.74,-11.76,4136.0,875.0,809.0,False
+418,iShares MSCI Taiwan UCITS ETF USD (Dist),0.86,-2.31,9.4,3.64,19.91,27.22,71.69,1502.0,96.0,46.0,False
+419,iShares MSCI Turkey UCITS ETF USD (Dist),0.69,0.16,-17.96,-34.7,-31.22,-60.08,-52.16,4842.0,945.0,908.0,False
+420,iShares MSCI UK UCITS ETF GBP (Acc),1.04,-0.04,-8.54,-25.24,-17.44,-11.02,-8.58,4393.0,908.0,852.0,False
+421,iShares MSCI USA ESG Enhanced UCITS ETF USD (Acc),-2.41,1.66,2.58,3.13,11.47,,,1576.0,120.0,192.0,False
+422,iShares MSCI USA ESG Enhanced UCITS ETF USD (Dist),-2.51,2.65,1.92,3.18,11.48,,,1473.0,86.0,157.0,False
+423,iShares MSCI USA ESG Screened UCITS ETF USD (Acc),-2.69,1.44,2.79,2.58,10.87,,,1673.0,143.0,230.0,False
+424,iShares MSCI USA ESG Screened UCITS ETF USD (Dist),-2.67,1.44,2.06,1.84,9.28,,,1758.0,171.0,261.0,False
+425,iShares MSCI USA Quality Dividend UCITS ETF USD (Dist),0.58,0.86,-5.53,-13.41,-9.53,12.46,36.26,3434.0,752.0,630.0,False
+426,iShares MSCI USA Small Cap UCITS ETF USD (Acc),-2.8,-2.75,-6.43,-13.1,-6.87,16.93,35.09,4355.0,904.0,845.0,False
+427,iShares MSCI USA SRI UCITS ETF EUR Hedged (Dist),-3.84,2.66,8.05,9.84,17.52,,,1234.0,41.0,74.0,False
+428,iShares MSCI USA SRI UCITS ETF USD (Acc),-2.79,2.29,4.3,5.69,13.45,61.96,,1402.0,70.0,64.0,False
+429,iShares MSCI USA SRI UCITS ETF USD (Dist),-2.66,2.61,6.55,4.89,12.29,,,1287.0,51.0,88.0,False
+430,iShares MSCI USA UCITS ETF USD (Acc),-2.53,1.39,2.15,1.41,9.14,47.72,77.69,1834.0,199.0,99.0,False
+431,iShares MSCI World Consumer Discretionary Sector UCITS ETF USD (Dist),-3.14,5.46,8.28,9.93,,,,1036.0,23.0,93.0,False
+432,iShares MSCI World Consumer Staples Sector UCITS ETF USD (Dist),1.25,2.49,0.5,-4.41,,,,1258.0,47.0,189.0,False
+433,iShares MSCI World Energy Sector UCITS ETF USD (Dist),-2.45,-5.65,-25.82,-43.87,,,,3752.0,815.0,977.0,False
+434,iShares MSCI World ESG Enhanced UCITS ETF USD (Acc),-1.38,1.6,1.35,-1.43,8.43,,,1881.0,216.0,322.0,False
+435,iShares MSCI World ESG Enhanced UCITS ETF USD (Dist),-1.38,2.59,0.3,-2.3,4.64,,,1982.0,263.0,386.0,False
+436,iShares MSCI World ESG Screened UCITS ETF USD (Acc),-1.58,1.75,1.67,-1.58,5.98,,,1909.0,225.0,334.0,False
+437,iShares MSCI World ESG Screened UCITS ETF USD (Dist),-1.61,1.74,0.86,-2.4,4.31,,,2083.0,310.0,449.0,False
+438,iShares MSCI World EUR Hedged UCITS ETF (Acc),-2.21,1.64,3.88,0.4,7.97,21.52,47.18,1899.0,218.0,113.0,False
+439,iShares MSCI World Health Care Sector UCITS ETF USD (Dist),0.37,-0.59,-2.45,-0.84,,,,2193.0,349.0,735.0,False
+440,iShares MSCI World Information Technology Sector UCITS ETF USD (Dist),-5.68,0.9,9.24,18.53,,,,1486.0,90.0,312.0,False
+441,iShares MSCI World Quality Dividend UCITS ETF,1.11,1.2,-5.01,-14.86,-9.94,2.25,,3269.0,721.0,726.0,False
+442,iShares MSCI World Small Cap UCITS ETF USD (Acc),-1.42,-0.51,-3.81,-11.66,-3.62,,,3543.0,776.0,920.0,False
+443,iShares MSCI World SRI UCITS ETF EUR (Acc),-1.32,2.32,2.98,1.46,9.42,,,1450.0,81.0,143.0,False
+444,iShares MSCI World SRI UCITS ETF USD (Dist),-1.3,2.36,2.51,0.59,7.7,,,1536.0,106.0,182.0,False
+445,iShares MSCI World UCITS ETF USD (Dist),-1.5,1.57,0.4,-3.82,2.66,24.0,40.54,2491.0,460.0,272.0,False
+446,iShares NASDAQ-100  UCITS ETF (DE),-5.96,1.11,10.63,22.83,35.0,94.86,147.61,1461.0,82.0,42.0,False
+447,iShares NASDAQ 100 UCITS ETF EUR Hedged (Acc),-7.07,1.31,15.58,28.73,42.56,,,1380.0,63.0,117.0,False
+448,iShares NASDAQ 100 UCITS ETF USD (Acc),-5.93,1.18,10.87,23.29,35.88,98.39,160.41,1426.0,74.0,38.0,False
+449,iShares NASDAQ US Biotechnology UCITS ETF,-1.73,-5.58,-6.62,1.03,17.64,,,2880.0,592.0,787.0,False
+450,iShares Nikkei 225  UCITS ETF (DE),0.98,2.79,-2.66,-5.15,2.89,24.5,37.71,2049.0,295.0,151.0,False
+451,iShares Nikkei 225 UCITS ETF JPY (Acc),1.0,2.85,-1.93,-4.06,4.03,28.86,46.47,1861.0,207.0,105.0,False
+452,iShares Oil & Gas Exploration & Production UCITS ETF USD (Acc),-5.73,-8.79,-24.79,-46.47,-40.05,-39.98,-47.55,5913.0,979.0,969.0,False
+453,iShares Pfandbriefe UCITS ETF (DE),0.21,-0.02,0.77,1.0,-1.17,1.95,0.93,2895.0,599.0,441.0,False
+454,iShares S&P 500 Communication Sector UCITS ETF USD (Acc),-2.58,1.7,4.51,5.27,12.43,,,1477.0,87.0,159.0,False
+455,iShares S&P 500 Consumer Discretionary Sector UCITS ETF USD (Acc),-1.69,4.76,8.78,15.82,17.7,78.17,,986.0,20.0,19.0,False
+456,iShares S&P 500 Consumer Staples Sector UCITS ETF,0.63,3.76,3.5,-1.1,1.65,30.07,,1314.0,55.0,51.0,False
+457,iShares S&P 500 Energy Sector UCITS ETF USD (Acc),-3.13,-7.87,-28.92,-45.46,-42.57,-39.04,,5351.0,967.0,974.0,False
+458,iShares S&P 500 EUR Hedged UCITS ETF (Acc),-3.05,1.65,5.81,4.44,12.88,32.77,67.89,1575.0,117.0,57.0,False
+459,iShares S&P 500 Financials Sector UCITS ETF USD (Acc),0.09,2.0,-10.14,-22.69,-13.6,10.75,,3509.0,771.0,799.0,False
+460,iShares S&P 500 Health Care Sector UCITS ETF USD (Acc),0.22,-0.52,-1.75,-1.14,10.82,37.36,,2339.0,412.0,365.0,False
+461,iShares S&P 500 Industrials Sector UCITS ETF,-0.14,4.08,-2.2,-9.47,-1.71,19.57,,2622.0,506.0,507.0,False
+462,iShares S&P 500 Information Technology Sector UCITS ETF USD (Acc),-5.77,1.32,9.77,19.85,34.11,112.2,,1418.0,73.0,65.0,False
+463,iShares S&P 500 Materials Sector UCITS ETF,2.76,5.38,4.21,1.19,8.15,25.52,,635.0,10.0,10.0,True
+464,iShares S&P 500 Utilities Sector UCITS ETF,4.03,-2.37,-6.98,-10.18,-8.36,19.99,,3270.0,722.0,727.0,False
+465,iShares S&P SmallCap 600 UCITS ETF USD (Dist),-2.16,-3.08,-8.83,-18.96,-12.46,6.02,23.29,4707.0,930.0,887.0,False
+466,iShares S&P U.S. Banks UCITS ETF USD (Acc),-0.58,0.45,-19.41,-36.72,-26.01,,,3977.0,851.0,956.0,False
+467,iShares SMI (DE),1.81,2.01,1.77,-2.78,4.25,19.07,23.96,1552.0,108.0,52.0,False
+468,iShares Spain Govt Bond UCITS ETF EUR (Dist),0.49,-0.47,1.67,1.53,-0.69,10.13,14.72,2452.0,447.0,258.0,False
+469,iShares STOXX Europe 50 UCITS ETF (DE),1.76,1.92,-3.06,-11.71,-6.15,-1.77,-4.3,3282.0,724.0,598.0,False
+470,iShares STOXX Europe 50 UCITS ETF EUR (Dist),1.74,0.98,-2.78,-12.58,-6.27,-1.96,-1.8,3455.0,760.0,637.0,False
+471,iShares STOXX Europe 600 Automobiles & Parts UCITS ETF (DE),6.02,10.65,5.48,-12.21,-6.85,-21.32,-18.78,2568.0,493.0,305.0,False
+472,iShares STOXX Europe 600 Banks UCITS ETF (DE),0.45,0.92,-13.71,-37.55,-28.19,-48.84,-54.68,4788.0,940.0,899.0,False
+473,iShares STOXX Europe 600 Basic Resources UCITS ETF (DE),0.35,3.06,1.88,-8.71,0.32,-2.76,37.26,2330.0,409.0,228.0,False
+474,iShares STOXX Europe 600 Chemicals UCITS ETF (DE),2.69,4.85,9.37,5.79,16.3,22.02,30.44,499.0,6.0,5.0,True
+475,iShares STOXX Europe 600 Construction & Materials UCITS ETF (DE),1.01,2.36,1.81,-8.83,1.61,5.84,24.58,2090.0,313.0,165.0,False
+476,iShares STOXX Europe 600 Financial Services UCITS ETF (DE),-0.11,-0.87,1.16,-5.82,4.46,21.01,26.17,2800.0,566.0,402.0,False
+477,iShares STOXX Europe 600 Food & Beverage UCITS ETF (DE),2.05,2.77,-1.66,-11.64,-15.92,4.66,20.41,2826.0,575.0,417.0,False
+478,iShares STOXX Europe 600 Health Care UCITS ETF (DE),2.11,0.97,-1.74,-1.43,6.72,21.84,14.32,2010.0,276.0,137.0,False
+479,iShares STOXX Europe 600 Industrial Goods & Services UCITS ETF (DE),1.71,2.71,4.66,-7.54,2.08,11.76,33.18,1558.0,110.0,53.0,False
+480,iShares STOXX Europe 600 Insurance UCITS ETF (DE),1.33,2.73,-5.3,-20.17,-10.56,-5.18,-3.69,3576.0,787.0,671.0,False
+481,iShares STOXX Europe 600 Media UCITS ETF (DE),2.55,3.28,-4.5,-19.73,-16.7,-5.28,-22.6,3497.0,768.0,646.0,False
+482,iShares STOXX Europe 600 Oil & Gas UCITS ETF (DE),-0.71,-0.95,-15.72,-36.26,-32.46,-27.76,-22.23,5403.0,969.0,952.0,False
+483,iShares STOXX Europe 600 Personal & Household Goods UCITS ETF (DE),2.76,4.67,1.32,-5.12,-1.05,-0.64,17.19,1953.0,249.0,124.0,False
+484,iShares STOXX Europe 600 Real Estate UCITS ETF (DE),0.67,0.34,-3.35,-17.04,-6.09,-4.05,-10.63,3964.0,850.0,767.0,False
+485,iShares STOXX Europe 600 Retail UCITS ETF (DE),0.12,2.77,2.43,-4.03,11.59,19.82,0.96,1914.0,227.0,116.0,False
+486,iShares STOXX Europe 600 Technology UCITS ETF (DE),-3.1,-0.4,4.94,7.76,18.31,35.84,80.21,1934.0,239.0,119.0,False
+487,iShares STOXX Europe 600 Telecommunications UCITS ETF (DE),2.21,1.09,-7.4,-16.61,-15.9,-26.11,-45.82,4014.0,858.0,778.0,False
+488,iShares STOXX Europe 600 Travel & Leisure UCITS ETF (DE),-0.82,3.33,-9.24,-33.85,-26.32,-28.98,-30.8,4593.0,919.0,870.0,False
+489,iShares STOXX Europe 600 UCITS ETF (DE),1.06,1.72,-1.52,-11.12,-4.97,-2.17,0.75,3264.0,718.0,592.0,False
+490,iShares STOXX Europe 600 Utilities UCITS ETF (DE),0.6,-1.61,1.0,-0.73,6.97,17.03,18.04,2473.0,455.0,266.0,False
+491,iShares STOXX Europe Large 200 UCITS ETF (DE),1.29,1.87,-1.58,-11.04,-5.5,-2.37,-1.17,3209.0,699.0,566.0,False
+492,iShares STOXX Europe Mid 200 UCITS ETF (DE),1.07,0.93,-1.87,-13.14,-5.3,-3.0,6.12,3470.0,764.0,642.0,False
+493,iShares STOXX Europe Select Dividend 30 UCITS ETF (DE),2.27,1.3,-8.31,-23.72,-14.27,-11.83,-12.07,3936.0,843.0,759.0,False
+494,iShares STOXX Europe Small 200 UCITS ETF (DE),0.11,1.85,2.05,-8.43,0.65,3.87,13.12,2558.0,491.0,301.0,False
+495,iShares STOXX Global Select Dividend 100 UCITS ETF (DE),1.24,2.06,-8.73,-22.84,-17.56,-13.61,-7.78,3951.0,847.0,763.0,False
+496,iShares Sustainable MSCI Japan SRI EUR Hedged UCITS ETF ,-0.49,2.09,0.32,-3.11,11.64,10.9,,2052.0,297.0,243.0,False
+497,iShares TecDAX  UCITS ETF (DE),-1.0,1.13,-3.24,2.09,7.37,30.42,75.11,2273.0,384.0,212.0,False
+498,iShares Thomson Reuters Inclusion and Diversity UCITS ETF,1.19,2.31,-2.37,-11.13,-2.5,,,2296.0,394.0,568.0,False
+499,iShares UK Dividend UCITS ETF GBP (Dist),-0.13,1.44,-13.39,-35.52,-24.55,-36.51,-49.88,4860.0,947.0,911.0,False
+500,iShares US Aggregate Bond UCITS ETF USD (Dist),1.04,-1.27,-2.97,0.02,-3.01,8.62,3.25,3221.0,702.0,570.0,False
+501,iShares USD Corp Bond 0-3yr ESG UCITS ETF EUR Hedged (Acc),-0.07,-0.29,0.0,1.68,1.76,,,2251.0,371.0,545.0,False
+502,iShares USD Corp Bond ESG UCITS ETF EUR Hedged (Dist),-0.23,-1.71,2.48,,,,,1744.0,163.0,792.0,False
+503,iShares USD Treasury Bond 3-7yr UCITS ETF EUR Hedged (Dist),-0.06,-1.02,-0.1,4.18,2.69,,,2302.0,396.0,571.0,False
+504,iShares USD Treasury Bond 3-7yr UCITS ETF USD (Dist),1.04,-1.24,-4.36,-0.39,-2.38,,,2702.0,523.0,717.0,False
+505,iShares USD Treasury Bond 7-10yr UCITS ETF EUR Hedged (Dist),-0.02,-0.77,1.41,9.1,4.63,,,1948.0,246.0,363.0,False
+506,iShares USD Treasury Bond 7-10 yr UCITS ETF USD (Acc),0.06,-0.7,1.71,11.25,9.16,19.13,25.36,2080.0,308.0,163.0,False
+507,iShares US Equity Buyback Achievers UCITS ETF ,-1.2,1.57,-11.51,-21.57,-10.69,3.22,16.17,4166.0,880.0,814.0,False
+508,iShares US Mortgage Backed Securities UCITS ETF ,1.07,-0.29,-5.44,-3.21,-5.28,2.6,,3141.0,683.0,691.0,False
+509,iShares US Property Yield UCITS ETF USD (Dist),1.15,-1.15,-12.12,-24.2,-26.73,-13.11,-7.07,4720.0,932.0,888.0,False
+512,JPM BetaBuilders EUR Govt Bond 1-3 yr UCITS ETF - EUR (acc),0.03,-0.02,0.18,-0.14,-0.74,,,2322.0,404.0,582.0,False
+513,JPM BetaBuilders EUR Govt Bond UCITS ETF,-0.54,-0.53,2.64,1.91,-0.72,,,2212.0,356.0,522.0,False
+514,JPM BetaBuilders US Equity UCITS ETF,0.78,2.57,7.51,0.16,7.55,,,949.0,19.0,33.0,True
+515,JPM BetaBuilders US Equity UCITS ETF      ,-1.78,2.56,2.13,1.49,11.43,,,1485.0,89.0,162.0,False
+516,JPM BetaBuilders US Treasury Bond 0-1yr UCITS ETF - USD (acc),0.41,-3.2,-8.45,-4.75,-5.31,,,3339.0,736.0,882.0,False
+517,JPM BetaBuilders US Treasury Bond 1-3 yr UCITS ETF - USD (acc),1.07,-0.32,-4.78,-2.34,-3.37,,,2682.0,517.0,708.0,False
+518,JPM BetaBuilders US Treasury Bond UCITS ETF      ,0.36,-1.3,-2.96,1.29,-0.02,,,2541.0,483.0,665.0,False
+519,JPM EUR Corporate Bond 1-5 yr Research Enhanced Index UCITS ETF,0.91,0.91,2.45,0.13,-0.32,,,1582.0,123.0,195.0,False
+520,JPM EUR Corporate Bond Research Enhanced Index UCITS ETF,0.23,-0.01,2.38,0.39,-0.37,,,1920.0,230.0,340.0,False
+521,JPM Europe Research Enhanced Index Equity (ESG) UCITS ETF - EUR (acc),1.54,2.64,-0.11,-5.71,0.27,,,1633.0,134.0,218.0,False
+522,JPM EUR Ultra-Short Income UCITS ETF - EUR (acc),0.04,0.06,0.2,-0.24,-0.38,,,2254.0,376.0,551.0,False
+523,JPM Global Emerging Markets Research Enhanced Index Equity (ESG) UCITS ETF,-1.23,0.65,6.26,-7.12,0.88,,,2191.0,347.0,511.0,False
+524,JPM Global Equity Multi-Factor UCITS ETF - USD (acc),-0.97,1.02,-3.19,-10.3,-1.22,,,2994.0,627.0,821.0,False
+525,JPM Global High Yield Corporate Bond Multi-Factor UCITS ETF - USD (acc),-0.38,-0.38,-0.38,,,,,1904.0,222.0,855.0,False
+526,JPM Global Research Enhanced Index Equity (ESG) UCITS ETF - USD (acc),-1.12,1.91,5.15,-1.8,10.67,,,1576.0,120.0,192.0,False
+527,JPM Managed Futures UCITS ETF - EUR Hedged (acc),0.48,0.48,1.12,-16.56,-19.16,,,2863.0,585.0,775.0,False
+528,JPMorgan Managed Futures UCITS ETF - USD (acc),0.56,0.16,-2.19,-20.34,-22.43,,,3260.0,717.0,867.0,False
+529,JPM USD Corporate Bond Research Enhanced Index UCITS ETF,0.37,-2.18,-2.14,1.32,1.24,,,2474.0,456.0,640.0,False
+530,JPM USD Emerging Markets Sovereign Bond UCITS ETF,0.82,0.38,-1.45,-8.47,-9.74,,,2750.0,541.0,741.0,False
+531,JPM USD Emerging Markets Sovereign Bond UCITS ETF - EUR Hedged (acc),-0.27,0.38,3.14,-2.0,-1.45,,,2207.0,355.0,519.0,False
+532,JPM USD Emerging Markets Sovereign Bond UCITS ETF - USD (acc),0.49,0.8,0.67,-6.28,,,,1803.0,183.0,550.0,False
+533,JPM USD Ultra-Short Income UCITS ETF,-0.51,0.16,-3.9,-4.8,-6.13,,,3123.0,672.0,846.0,False
+534,JPM USD Ultra-Short Income UCITS ETF,-0.37,-3.28,-3.28,-3.56,-3.9,,,3356.0,740.0,885.0,False
+535,JPM US Equity Multi-Factor UCITS ETF - USD (acc),-1.98,-0.07,7.38,-7.88,-4.7,,,2716.0,527.0,723.0,False
+536,JPM US Research Enhanced Index Equity (ESG) UCITS ETF - USD (acc),-1.8,3.03,2.93,3.22,13.5,,,1311.0,54.0,100.0,False
+537,JPM US Research Enhanced Index Equity (ESG) UCITS ETF - USD (dist),-1.77,1.88,2.84,2.34,,,,1427.0,75.0,275.0,False
+538,KMEFIC FTSE Kuwait Equity UCITS ETF,8.05,8.05,2.07,-20.99,-18.55,,,1905.0,223.0,331.0,False
+539,Lyxor 1 DAX 50 ESG UCITS ETF (I),2.02,4.45,3.96,,,,,283.0,3.0,8.0,True
+540,Lyxor 1 TecDAX UCITS ETF (I),-0.94,0.42,-3.85,1.28,6.66,27.59,,2437.0,440.0,423.0,False
+541,Lyxor Australia (S&P/ASX 200) UCITS ETF - Dist,-0.71,0.51,-4.28,-13.6,-11.96,-5.64,10.79,4251.0,888.0,829.0,False
+542,Lyxor Barclays Floating Rate Euro 0-7Y UCITS ETF - Acc,-0.05,-0.01,0.37,-0.29,-0.21,-0.6,0.05,3097.0,666.0,523.0,False
+543,Lyxor Bofaml Eur High Yield Ex-Financial Bond UCITS ETF - Dist,0.32,1.29,-2.39,-5.49,-4.19,-6.83,-6.57,3562.0,783.0,667.0,False
+544,Lyxor Commodities Thomson Reuters/CoreCommodity CRB EX-Agriculture TR UCITS ETF - Acc,-3.99,-1.63,5.58,-22.17,-22.03,-11.02,,4137.0,876.0,905.0,False
+545,Lyxor Commodities Thomson Reuters/CoreCommodity CRB EX-Energ,-0.28,3.52,5.56,-7.16,0.31,,,1742.0,161.0,255.0,False
+546,Lyxor Commodities Thomson Reuters/CoreCommodity CRB TR UCITS,-3.69,-0.69,1.85,-26.01,-20.06,,,3692.0,812.0,942.0,False
+547,Lyxor Core Euro STOXX 300 (DR) - UCITS ETF Acc,1.24,2.33,0.22,-8.29,-1.41,,,1930.0,235.0,348.0,False
+548,Lyxor Core Euro Stoxx 50 (DR) - UCITS ETF Acc,1.53,2.26,-0.45,-8.93,-1.9,,,2003.0,272.0,406.0,False
+550,Lyxor Core Morningstar UK NT (DR) UCITS ETF,0.39,0.02,-9.19,-25.09,-17.34,,,3581.0,789.0,925.0,False
+551,Lyxor Core Morningstar US Equity (DR) UCITS ETF,-2.51,1.34,0.86,0.23,7.21,,,2035.0,285.0,425.0,False
+552,Lyxor Core MSCI EMU (DR) UCITS ETF- Dist,1.32,2.88,-2.04,-11.18,-5.01,,,2250.0,370.0,543.0,False
+553,Lyxor Core MSCI Japan (DR) UCITS ETF,0.73,3.05,-2.88,-7.16,0.6,,,2010.0,276.0,409.0,False
+554,Lyxor Core MSCI World (DR) UCITS ETF,-1.43,1.63,0.97,-2.76,4.45,,,2074.0,304.0,444.0,False
+555,Lyxor Core STOXX Europe 600 (DR) UCITS ETF - Acc,1.25,1.9,-0.39,-9.84,-2.14,,,2150.0,337.0,488.0,False
+556,Lyxor Core STOXX Europe 600 (DR) - UCITS ETF Monthly Hedged to EUR - Dist,1.53,1.86,-2.02,-10.33,-4.65,-3.75,,2785.0,552.0,581.0,False
+557,Lyxor Core US TIPS (DR) UCITS ETF - Dist,0.69,-0.2,-0.3,3.06,1.39,16.69,,2112.0,323.0,265.0,False
+558,Lyxor Daily LevDAX UCITS ETF - Acc,3.89,8.7,5.0,-10.41,5.29,-3.99,24.12,1664.0,139.0,67.0,False
+560,Lyxor DAX (DR) UCITS ETF - Acc,2.07,4.45,3.17,-0.54,8.06,5.96,25.72,1206.0,38.0,23.0,False
+561,Lyxor ETF Daily Double Short Bund,-0.89,0.57,-3.69,-7.48,-0.77,-23.74,-39.03,4023.0,860.0,783.0,False
+562,Lyxor ETF Daily Leveraged Bund,0.81,-0.83,3.14,5.6,-2.4,21.73,45.43,2129.0,327.0,174.0,False
+563,Lyxor ETF Daily Short DAX x2 ,-4.61,-9.62,-10.71,-25.78,-38.52,-47.21,-71.26,5800.0,975.0,963.0,False
+564,Lyxor ETF DJ Industrial Average,-0.65,2.62,-2.74,-7.18,-1.98,30.81,60.79,2731.0,534.0,368.0,False
+565,Lyxor ETF EURO Cash EONIA,-0.02,-0.06,-0.17,-0.47,-0.67,-1.76,-2.52,3252.0,712.0,585.0,False
+566,Lyxor ETF EURO STOXX 50,1.54,2.36,-2.24,-11.4,-4.53,-3.86,1.38,3123.0,672.0,529.0,False
+567,Lyxor ETF EURO STOXX 50 Daily Double Short,-3.49,-5.74,-3.76,-7.91,-23.12,-43.91,-67.12,5227.0,962.0,944.0,False
+568,Lyxor ETF EURO STOXX 50 Daily Short,-1.72,-2.79,-1.36,-0.04,-8.53,-21.1,-37.83,4377.0,906.0,848.0,False
+569,Lyxor ETF FTSE ATHEX 20,-1.69,-0.56,-7.15,-32.82,-28.12,-27.75,-24.29,5307.0,965.0,948.0,False
+570,Lyxor ETF Japan (Topix),0.85,3.4,-3.91,-8.75,-1.51,3.79,16.35,2794.0,562.0,400.0,False
+571,Lyxor ETF Leveraged EURO STOXX 50,2.98,4.38,-2.21,-26.34,-14.3,-4.84,11.55,3162.0,688.0,554.0,False
+572,Lyxor ETF MSCI Emerging Markets,-1.2,-0.29,4.12,-7.24,2.1,6.59,40.61,2804.0,568.0,405.0,False
+573,Lyxor ETF MSCI Europe,1.4,2.02,-2.29,-12.36,-5.83,-3.65,-0.18,3264.0,718.0,592.0,False
+574,Lyxor ETF MSCI India,-0.16,2.07,10.07,-11.68,-3.94,-1.05,17.29,2832.0,576.0,420.0,False
+575,Lyxor ETF MSCI USA,-2.52,1.42,1.4,0.79,8.23,42.57,66.16,1973.0,259.0,128.0,False
+576,Lyxor ETF MSCI World,-1.5,1.56,-0.19,-3.87,3.15,24.09,38.89,2554.0,488.0,299.0,False
+577,Lyxor ETF New Energy,0.44,0.27,9.87,16.65,31.36,65.11,104.44,1044.0,24.0,15.0,True
+578,Lyxor ETF World Water,0.81,0.86,-0.3,-5.73,3.87,19.49,41.0,2278.0,389.0,215.0,False
+579,Lyxor EUR 2-10Y Inflation Expectations UCITS ETF - Acc,-0.45,-0.6,0.04,-3.22,-2.49,-6.98,,3394.0,747.0,766.0,False
+580,Lyxor Euro Government Bond (DR) UCITS ETF,0.37,-0.51,2.11,2.56,-0.48,9.68,14.42,2393.0,426.0,242.0,False
+581,Lyxor Euro Government Bond 10-15Y (DR) UCITS ETF,0.29,-0.73,3.07,3.41,0.13,15.08,23.45,2266.0,382.0,210.0,False
+582,Lyxor Euro Government Bond 1-3Y (DR) UCITS ETF,0.02,-0.05,0.11,-0.24,-0.82,-1.09,-1.17,3168.0,690.0,558.0,False
+583,Lyxor Euro Government Bond 15+Y (DR) UCITS ETF,0.97,-1.51,5.44,7.2,0.29,29.35,,1745.0,164.0,145.0,False
+584,Lyxor Euro Government Bond 3-5Y (DR) UCITS ETF,0.16,-0.1,0.58,0.51,-0.87,0.8,2.96,2974.0,618.0,474.0,False
+585,Lyxor Euro Government Bond 5-7Y (DR) UCITS ETF,0.17,-0.25,1.12,1.39,-0.72,5.12,,2423.0,436.0,418.0,False
+586,Lyxor Euro Government Inflation Linked Bond (DR) UCITS ETF - Acc,-0.21,-1.23,2.79,-0.53,-2.51,5.54,11.05,3129.0,675.0,532.0,False
+587,LyxorEuroMTS 7-10Y Investment Grade (DR) UCITS ETF - Acc,0.31,-0.4,1.86,2.32,-0.69,10.25,,2194.0,350.0,303.0,False
+588,LyxorEuroMTS Highest Rated Macro-Weighted Govt Bond (DR)UCITS ETF-Acc,0.41,-0.5,1.67,2.43,-1.21,7.72,,2276.0,388.0,328.0,False
+589,Lyxor Fed Funds US Dollar Cash UCITS ETF,1.1,0.22,-5.42,-5.97,-6.57,2.47,-4.08,3545.0,778.0,658.0,False
+591,Lyxor FTSE EPRA/NAREIT Global Developed UCITS ETF Dist EUR,1.01,0.66,-11.34,-23.74,-23.9,,,3392.0,746.0,896.0,False
+592,Lyxor German Mid-Cap MDAX UCITS ETF - Dist,0.0,1.46,0.77,-4.35,4.09,3.03,23.88,2558.0,491.0,301.0,False
+593,Lyxor Global Gender Equality (DR) UCITS ETF - Acc,0.14,2.29,-2.66,-10.53,-1.02,,,2500.0,464.0,647.0,False
+594,Lyxor Green Bond (DR) UCITS ETF - Acc,0.3,-0.9,0.75,,,,,1681.0,145.0,754.0,False
+595,Lyxor Green Bond (DR) UCITS ETF - Monthly Hedged to EUR - Acc,0.09,-0.91,1.76,2.81,0.67,,,2064.0,303.0,438.0,False
+596,Lyxor Green Bond ESG Screened (DR) UCITS ETF - Acc,0.32,-0.8,0.92,2.58,,,,1756.0,167.0,512.0,False
+597,Lyxor Hwabao WP MSCI China A (DR) UCITS ETF - Acc,-4.08,-2.09,14.99,16.16,19.04,,,1918.0,229.0,339.0,False
+598,Lyxor iBoxx Liquid Emerging Markets Sovereigns UCITS ETF-Dist,0.96,-1.31,-5.32,-9.6,-10.01,-5.54,-5.93,4249.0,887.0,827.0,False
+599,Lyxor Index Fund-Lyxor FTSE EPRA/NAREIT Developed Europe UCITS ETF,0.8,0.29,-4.93,-18.05,-6.62,,,3108.0,671.0,843.0,False
+600,Lyxor Index Fund-Lyxor FTSE EPRA/NAREIT United States UCITS ETF,1.15,-0.55,-13.79,-24.29,-27.19,,,3667.0,805.0,938.0,False
+601,Lyxor Index Fund-Lyxor Privex UCITS ETF,0.65,2.65,-5.82,-13.68,-5.91,,,2730.0,533.0,730.0,False
+602,Lyxor Index Fund-Lyxor Stoxx Europe 600 Auto. & Parts UCITS ETF- Acc,6.1,10.65,5.74,-11.91,-5.77,,,1469.0,84.0,154.0,False
+603,Lyxor Index Fund - Lyxor Stoxx Europe 600 Banks UCITS ETF - Acc,0.43,0.95,-13.38,-36.39,-26.51,,,3614.0,799.0,933.0,False
+604,Lyxor Index Fund-Lyxor Stoxx Europe 600 Basic Resources UCITS ETF-Acc,0.47,1.67,3.58,-6.59,4.12,,,1631.0,133.0,216.0,False
+605,Lyxor Index Fund-Lyxor Stoxx Europe 600 Chemicals UCITS ETF- Acc,2.7,5.27,9.85,6.65,18.27,,,210.0,1.0,1.0,True
+606,Lyxor Index Fund-Lyxor Stoxx Europe 600 Const.& Mat.UCITS ETF- Acc,1.05,2.35,1.72,-8.25,3.17,,,1568.0,114.0,186.0,False
+607,Lyxor Index Fund - Lyxor Stoxx Europe 600 Financ Serv UCITS ETF - ACC,0.0,-0.88,1.8,-4.45,6.78,,,2297.0,395.0,569.0,False
+608,Lyxor Index Fund -Lyxor Stoxx Europe 600 Food & Beverage UCITS ETF-Acc,2.14,2.7,-1.27,-10.98,-15.1,,,2252.0,374.0,548.0,False
+609,Lyxor Index Fund - Lyxor Stoxx Europe 600 Healthcare UCITS ETF - Acc,2.11,0.98,-1.26,-0.16,8.25,,,1483.0,88.0,161.0,False
+610,Lyxor Index Fund - Lyxor Stoxx Europe 600 Indus Goods & Services - Acc,-0.13,3.66,4.03,-6.64,3.0,,,1648.0,136.0,224.0,False
+611,Lyxor Index Fund-Lyxor Stoxx Europe 600 Insurance UCITS ETF- Acc,1.46,2.82,-3.77,-18.22,-4.95,,,2435.0,439.0,619.0,False
+612,Lyxor Index Fund-Lyxor Stoxx Europe 600 Media UCITS ETF- Acc,0.81,5.69,-3.65,-18.66,-15.31,,,2670.0,513.0,704.0,False
+613,Lyxor Index Fund-Lyxor Stoxx Europe 600 Oil & Gas UCITS ETF- Acc,-0.66,-1.11,-14.6,-33.76,-29.29,,,4306.0,898.0,972.0,False
+614,Lyxor Index Fund-Lyxor Stoxx Europe 600 Pers.& Hou Good UCITS ETF- Acc,2.78,4.76,0.38,-3.5,0.95,,,1250.0,45.0,79.0,False
+615,Lyxor Index Fund-Lyxor Stoxx Europe 600 Retail UCITS ET- Acc,0.24,2.01,2.66,-1.65,14.67,,,1347.0,58.0,110.0,False
+616,Lyxor Index Fund- Lyxor Stoxx Europe 600 Technology UCITS ETF-Acc,-3.08,-0.4,5.08,8.11,22.16,,,1825.0,195.0,300.0,False
+617,Lyxor Index Fund - Lyxor Stoxx Europe 600 Telecommun UCITS ETF - Acc,2.29,2.05,-7.23,-15.05,-13.12,,,2664.0,511.0,703.0,False
+618,Lyxor Index Fund Lyxor Stoxx Europe 600 Trvl. & Leisure UCITS ETF- Acc,-0.81,3.04,-9.11,-32.03,-24.58,,,3493.0,767.0,913.0,False
+619,LYXOR INDEX FUND Lyxor Stoxx Europe 600 Utilities UCITS ETF-Acc,0.65,-1.57,1.41,0.84,8.74,,,1864.0,208.0,313.0,False
+620,Lyxor Index Fund-Lyxor STOXX Europe Select Dividend 30 UCITS ETF,2.3,1.26,-10.05,-24.48,-15.27,,,3005.0,631.0,824.0,False
+621,Lyxor Inverse EUR 2-10Y Inflation Expectations UCITS ETF - Acc,-2.03,-2.03,-2.03,0.35,0.35,,,2953.0,609.0,807.0,False
+622,Lyxor Inverse USD 10Y Inflation Expectations UCITS ETF - Acc,1.74,-1.27,-11.5,-4.26,-7.19,,,3032.0,642.0,826.0,False
+623,Lyxor JPX-Nikkei 400 (DR) UCITS ETF - Daily Hedged to EUR - Dist,4.01,4.01,-2.77,-6.9,,,,1305.0,53.0,217.0,False
+624,Lyxor MSCI Canada UCITS ETF - Dist,-1.08,0.64,-2.36,-12.49,-9.05,-0.17,10.37,4021.0,859.0,782.0,False
+625,Lyxor MSCI China UCITS ETF - Acc,-3.51,0.25,10.03,8.31,19.33,,,1586.0,124.0,199.0,False
+626,Lyxor MSCI Digital Economy ESG Filtered (DR) UCITS ETF - Acc,-5.67,-3.11,5.72,,,,,1996.0,268.0,877.0,False
+627,Lyxor MSCI Disruptive Technology ESG Filtered (DR) UCITS ETF - Acc,-4.87,-3.52,3.37,,,,,2074.0,304.0,906.0,False
+628,Lyxor MSCI Emerging Markets Asia UCITS ETF - Acc,-1.43,-0.3,7.24,1.1,12.91,,,1812.0,188.0,293.0,False
+629,Lyxor MSCI Emerging Markets ex China UCITS ETF - Acc,0.64,-0.51,0.86,-14.51,-6.0,,,2889.0,595.0,789.0,False
+630,Lyxor MSCI EM ESG Trend Leaders UCITS ETF - Acc,-1.54,-0.11,6.94,-2.82,7.66,,,2056.0,300.0,434.0,False
+631,Lyxor MSCI EMU ESG Trend Leaders (DR) UCITS ETF - Acc,0.97,1.69,0.28,-7.24,-0.12,,,1955.0,252.0,371.0,False
+632,Lyxor MSCI EMU Growth (DR) UCITS ETF - Dist,0.09,1.5,2.12,-4.36,1.73,,,1868.0,210.0,314.0,False
+633,Lyxor MSCI EMU Small Cap (DR) UCITS ETF - Dist,0.76,2.2,-0.93,-10.49,-1.61,,,2251.0,371.0,545.0,False
+634,Lyxor MSCI EMU Value (DR) UCITS ETF - Dist,2.38,3.4,-5.09,-17.88,-11.4,-21.21,,3044.0,647.0,661.0,False
+635,Lyxor MSCI Future Mobility ESG Filtered (DR) UCITS ETF - Acc,-1.78,3.63,2.0,,,,,1143.0,33.0,331.0,False
+636,Lyxor MSCI Malaysia UCITS ETF- Acc,-2.82,-7.26,-9.25,-13.93,-11.98,,,4271.0,892.0,971.0,False
+637,Lyxor MSCI Millennials ESG Filtered (DR) UCITS ETF - Acc,-2.54,2.0,2.74,,,,,1327.0,56.0,521.0,False
+639,Lyxor MSCI Russia UCITS ETF - Acc,-5.06,-7.63,-15.4,-33.52,-23.14,,,4664.0,924.0,976.0,False
+641,Lyxor MSCI Smart Cities ESG Filtered (DR) UCITS ETF - Acc,-1.25,-1.94,-0.17,,,,,2155.0,340.0,928.0,False
+642,Lyxor MSCI USA ESG Trend  Leaders (DR) UCITS ETF - Acc,-2.69,1.21,1.1,1.31,10.03,,,1926.0,232.0,342.0,False
+643,Lyxor MSCI World Communication Services TR UCITS ETF - Acc (EUR),-2.37,0.73,3.23,2.2,8.07,32.64,31.13,1998.0,270.0,135.0,False
+644,Lyxor MSCI World Consumer Discretionary TR UCITS ETF - Acc (EUR),-3.12,4.61,8.77,10.36,15.1,54.36,73.47,1152.0,34.0,20.0,False
+645,Lyxor MSCI World Consumer Staples TR UCITS ETF - Acc (EUR),1.27,2.5,1.56,-3.33,-2.45,19.27,36.51,1872.0,213.0,106.0,False
+646,Lyxor MSCI World Energy TR UCITS ETF - Acc (EUR),-2.5,-5.77,-24.17,-43.03,-39.48,-35.13,-33.27,5781.0,974.0,962.0,False
+647,Lyxor MSCI World ESG Trend Leaders (DR) UCITS ETF - Acc,-1.16,1.86,1.44,-1.77,5.57,,,1868.0,210.0,314.0,False
+648,Lyxor MSCI World Financials TR UCITS ETF - Acc (EUR),0.12,2.22,-8.26,-23.17,-14.21,-2.65,13.01,3945.0,845.0,761.0,False
+649,Lyxor MSCI World Health Care TR UCITS ETF - Acc (EUR),0.42,-0.47,-1.76,-0.11,11.25,36.72,41.99,2270.0,383.0,211.0,False
+650,Lyxor MSCI World Industrials TR UCITS ETF - Acc (EUR),0.82,5.52,0.0,-8.04,-1.51,17.02,45.91,2137.0,333.0,178.0,False
+651,Lyxor MSCI World Information Technology TR UCITS ETF - Acc (EUR),-5.71,0.93,9.57,18.82,32.35,100.68,179.81,1499.0,95.0,45.0,False
+652,Lyxor MSCI World Materials TR UCITS ETF - Acc (EUR),2.37,4.02,6.36,0.72,8.67,19.78,56.39,721.0,13.0,9.0,True
+653,Lyxor MSCI World Utilities TR UCITS ETF - Acc (EUR),2.58,-1.88,-5.03,-8.39,-5.39,17.64,41.05,3211.0,700.0,567.0,False
+654,Lyxor Multi Units Lux LYXOR EUR Curve Flattening 2-10 UCITS ETF C,-0.13,-0.13,-0.13,-0.13,,,,2047.0,294.0,675.0,False
+655,Lyxor Multi Units Lux LYXOR EUR Curve Steepening 2-10 UCITS ETF C,-0.83,-0.83,-0.83,-2.12,,,,2448.0,444.0,836.0,False
+656,Lyxor NASDAQ-100 UCITS ETF - Acc,-5.99,1.13,10.84,23.31,35.9,96.06,152.07,1442.0,78.0,40.0,False
+657,Lyxor Pan Africa UCITS ETF - Acc,-0.24,0.65,7.14,-7.77,-9.79,-6.15,,3018.0,638.0,652.0,False
+658,Lyxor Portfolio Strategy Defensive UCITS ETF,-0.24,0.02,1.49,0.55,2.34,,,2036.0,286.0,426.0,False
+659,Lyxor Portfolio Strategy Offensive UCITS ETF,-1.28,1.17,2.47,-2.89,3.85,,,2027.0,282.0,422.0,False
+660,Lyxor Portfolio Strategy UCITS ETF,-0.25,1.02,1.86,-2.52,1.18,13.78,,2220.0,361.0,310.0,False
+661,Lyxor Robotics & AI UCITS ETF - Acc,-5.23,-0.52,5.0,16.27,26.79,,,1869.0,212.0,318.0,False
+662,Lyxor S&P 500 UCITS ETF - Dist (EUR),-2.01,1.58,0.72,-0.25,6.79,40.95,65.45,2101.0,318.0,170.0,False
+663,Lyxor S&P 500 VIX Futures Enhanced Roll UCITS ETF - Acc,-1.43,4.25,-1.94,100.12,75.84,23.47,-68.9,2107.0,320.0,171.0,False
+664,Lyxor SG Global Quality Income NTR UCITS ETF - Dist,1.04,0.58,-6.6,-15.02,-11.42,-10.58,-9.16,4073.0,864.0,794.0,False
+668,Lyxor STOXX Europe 600 Media UCITS ETF-Dist,2.57,4.71,-5.36,-19.94,-15.99,-4.59,-13.39,3448.0,757.0,634.0,False
+671,Lyxor UCITS ETF EuroMTS Covered Bond Aggregate - Dist,0.15,0.07,-0.05,0.33,-1.74,,,2322.0,404.0,582.0,False
+672,Lyxor UCITS ETF Japan (TOPIX) - Daily Hedged D-EUR,0.11,4.05,-1.41,-6.71,3.9,-2.28,3.48,2743.0,538.0,375.0,False
+673,Lyxor US$ 10Y Inflation Expectations UCITS ETF - Acc,0.42,0.64,-1.37,-7.15,-6.44,0.97,,3095.0,665.0,685.0,False
+674,Lyxor US Curve Flattening 2-10 UCITS ETF - Acc,-0.07,-1.29,-5.71,-4.28,,,,2749.0,539.0,902.0,False
+675,Lyxor US Curve Steepening 2-10 UCITS ETF - Acc,0.55,0.29,-5.87,-7.5,,,,2316.0,402.0,791.0,False
+676,MUL Fund-Lyxor China Enterprise (HSCEI) UCITS ETF - Acc,-0.77,-2.43,-4.95,-15.27,-9.33,,,3897.0,839.0,954.0,False
+677,MUL - Lyxor Hong Kong (HSI) UCITS ETF - Dist,-0.8,0.79,-5.83,-17.44,-13.38,,,3565.0,784.0,922.0,False
+678,MUL - Lyxor MSCI AC Asia Ex Japan UCITS ETF - Acc,-1.29,0.41,6.27,-0.77,8.46,,,1811.0,187.0,292.0,False
+679,MUL - Lyxor MSCI AC Asia Pacific Ex Japan UCITS ETF - Acc,-0.99,0.29,4.69,-3.1,5.34,,,2001.0,271.0,403.0,False
+680,MUL - Lyxor MSCI Brazil UCITS ETF - Acc,1.45,-0.89,-8.12,-37.68,-29.73,,,3672.0,807.0,939.0,False
+681,MUL - Lyxor MSCI Eastern Europe Ex Russia UCITS ETF - Acc,-0.06,-3.02,-6.35,-25.22,-20.88,,,4086.0,866.0,958.0,False
+682,MUL - Lyxor MSCI EM Latin America UCITS ETF - Acc,1.0,-0.82,-8.83,-35.01,-28.36,,,3785.0,824.0,947.0,False
+683,MUL - Lyxor MSCI Indonesia UCITS ETF - Acc,-2.44,-0.39,-8.36,-27.0,-25.96,,,4222.0,885.0,968.0,False
+684,MUL- Lyxor MSCI Korea UCITS ETF - Acc,2.73,0.45,3.79,-1.58,12.63,,,1127.0,31.0,59.0,False
+685,MUL - Lyxor MSCI South Africa UCITS ETF - Acc,-0.17,3.39,-1.5,-23.47,-19.15,,,3000.0,629.0,823.0,False
+686,MUL - Lyxor MSCI Taiwan UCITS ETF - Acc,0.88,-2.33,9.36,4.28,24.03,,,1364.0,61.0,114.0,False
+687,MUL - Lyxor MSCI Thailand UCITS ETF - Acc,0.52,-4.32,-17.01,-27.67,-30.65,,,4110.0,871.0,960.0,False
+688,MUL - Lyxor MSCI Turkey UCITS ETF - Acc,0.42,0.1,-18.0,-34.56,-31.62,,,3767.0,819.0,945.0,False
+689,Multi Lyxor EurMts Hghst Rtd Macr Wghtd Gvt Bd 3-5Y(DR)UCITS ETF Acc,0.08,-0.09,0.24,0.15,-1.45,0.24,1.44,3128.0,674.0,531.0,False
+690,Multi Lyxor EurMts Highst Rtd Macr Wghtd Gvt Bd 5-7Y(DR)UCITS ETF Acc,0.24,-0.12,0.75,1.14,-1.46,4.15,6.21,2852.0,581.0,427.0,False
+691,Multi Lyxor Euro Corporate Bond Ex Financials UCITS ETF - Acc,0.39,0.11,1.39,0.7,-0.02,,,1873.0,214.0,320.0,False
+692,Multi Lyxor Euro Corporate Bond UCITS ETF - Acc,0.23,0.02,1.21,0.58,-0.19,,,1994.0,267.0,398.0,False
+693,Multi Lyxor Euromts Hghst Rtd Macr Wghtd Gvt Bd1-3Y(DR)UCITS ETF Acc,0.01,-0.1,-0.04,-0.48,-1.23,-2.19,-2.46,3312.0,730.0,604.0,False
+694,Multi Lyxor Eur Stoxx Banks (DR) Ucits ETF,1.34,2.48,-11.45,-34.98,-24.26,,,3067.0,656.0,839.0,False
+695,Multi Units Luxembourg Lyxor MSCI All Country World UCITS ETF EUR C,-1.42,1.35,1.28,-3.46,4.09,27.67,51.3,2290.0,391.0,220.0,False
+696,Shares MSCI EMU Large Cap UCITS ETF ,1.38,2.87,-0.74,-10.79,-2.2,4.82,20.87,2535.0,479.0,291.0,False
+697,The Medical Cannabis and Wellness UCITS ETF - Acc,-7.38,-3.53,-10.34,,,,,2840.0,578.0,979.0,False
+699,VanEck Vectors Emerging Markets High Yield Bond UCITS ETF,1.27,1.66,-0.59,-3.69,1.27,,,1769.0,174.0,268.0,False
+700,VanEckVectors European Equal Weight UCITS ETF,1.36,2.04,-3.18,-12.52,-1.21,,,2279.0,390.0,562.0,False
+701,VanEckVectors Global Equal Weight UCITS ETF,-0.23,1.93,-2.45,-9.44,-2.67,,,2759.0,543.0,744.0,False
+702,VanEck Vectors Global Fallen Angel High Yield Bond UCITS ETF,0.57,-0.91,0.02,2.59,5.27,,,2015.0,280.0,411.0,False
+703,VanEck Vectors Global Mining UCITS ETF,0.7,-0.07,13.04,10.03,16.89,,,1067.0,25.0,44.0,False
+704,VanEckVectors Global Real Estate UCITS ETF,1.01,1.06,-8.65,-21.02,-22.58,,,3255.0,713.0,864.0,False
+705,VanEck Vectors Gold Miners UCITS ETF,1.38,-2.45,22.63,36.96,34.48,72.49,197.15,1102.0,26.0,16.0,False
+706,VanEckVectors iBoxx EUR Corporates UCITS ETF,0.31,-0.15,0.65,-0.31,-1.57,,,2307.0,398.0,573.0,False
+707,VanEckVectors iBoxx EUR Sovereign Capped AAA-AA 1-5 UCITS ETF,0.14,-0.05,-0.16,-1.89,-3.71,,,2586.0,498.0,687.0,False
+708,VanEckVectors iBoxx EUR Sovereign Diversified 1-10 UCITS ETF,0.32,-0.38,1.38,1.38,-1.35,,,2129.0,327.0,476.0,False
+709,VanEck Vectors J.P. Morgan EM Local Currency Bond UCITS ETF,0.68,0.6,-3.63,-9.44,-7.1,-3.87,,3365.0,743.0,755.0,False
+710,VanEck Vectors Junior Gold Miners UCITS ETF,-0.11,-3.3,26.49,34.74,37.39,63.63,194.05,1601.0,126.0,61.0,False
+711,VanEck Vectors Morningstar Developed Markets Dividend Leaders UCITS ETF,1.09,3.07,-7.59,-20.22,-14.54,,,2805.0,569.0,756.0,False
+713,VanEck Vectors Morningstar North America Equal Weight UCITS ETF,-1.81,1.86,-0.16,-2.26,3.66,,,2219.0,360.0,527.0,False
+714,VanEck Vectors Morningstar US Wide Moat UCITS ETF,-1.51,1.54,-5.8,-5.19,5.44,46.03,,2677.0,515.0,530.0,False
+715,VanEck Vectors Natural Resources UCITS ETF,0.22,1.82,-2.19,-14.59,-7.31,,,2867.0,588.0,777.0,False
+716,VanEck Vectors Preferred US Equity UCITS ETF,-0.46,-0.22,-1.84,-4.76,-3.99,,,3035.0,644.0,827.0,False
+717,VanEckVectors Sustainable World Equal Weight UCITS ETF,-0.69,2.09,-1.18,-6.76,0.42,,,2364.0,419.0,602.0,False
+718,VanEck Vector Video Gaming and eSports UCITS ETF,-3.72,-0.6,19.29,48.19,61.24,,,1699.0,149.0,238.0,False
+721,Vanguard DAX UCITS ETF,2.06,4.46,1.97,-2.03,6.44,,,911.0,18.0,29.0,False
+722,Vanguard EUR Corporate Bond UCITS ETF - (EUR) Accumulating,0.21,-0.05,1.21,0.19,-0.19,,,2051.0,296.0,432.0,False
+723,Vanguard EUR Corporate Bond UCITS ETF (EUR) Distributing,0.26,-0.11,1.23,0.06,-0.83,,,2122.0,325.0,470.0,False
+724,Vanguard EUR Eurozone Government Bond UCITS ETF - (EUR) Accumulating,0.34,-0.53,2.11,2.65,-0.34,,,1933.0,238.0,352.0,False
+725,Vanguard EUR Eurozone Government Bond UCITS ETF (EUR) Distributing,0.34,-0.53,2.09,2.55,-0.57,,,1957.0,256.0,374.0,False
+726,Vanguard FTSE 100 UCITS ETF - Dist,0.61,-0.19,-8.05,-25.38,-18.66,,,3603.0,795.0,930.0,False
+727,Vanguard FTSE 250 UCITS ETF (GBP) Distributing,-2.01,-0.25,-4.58,-25.37,-12.57,,,3922.0,840.0,955.0,False
+728,Vanguard FTSE All-World High Dividend Yield UCITS ETF (USD) Accumulating,1.01,1.47,-4.91,,,,,1394.0,66.0,586.0,False
+729,Vanguard FTSE All-World High Dividend Yield UCITS ETF - Dist,1.04,1.41,-5.45,-18.01,-12.32,,,2987.0,623.0,817.0,False
+730,Vanguard FTSE All-World UCITS ETF,-1.26,1.56,1.15,-3.38,4.43,,,2080.0,308.0,446.0,False
+731,Vanguard FTSE All-World UCITS ETF - Dist,-1.28,1.48,0.72,-4.32,2.42,,,2251.0,371.0,545.0,False
+732,Vanguard FTSE Developed Asia Pacific ex Japan UCITS ETF (USD) Accumulating,0.65,1.52,-0.66,-9.01,,,,1867.0,209.0,596.0,False
+733,Vanguard FTSE Developed Asia Pacific ex Japan UCITS ETF - Dist,0.51,1.19,-1.21,-10.71,-6.25,,,2704.0,524.0,718.0,False
+734,Vanguard FTSE Developed Europe ex UK UCITS ETF - (EUR) Accumulating,1.52,2.59,1.37,-5.92,1.73,,,1412.0,72.0,129.0,False
+735,Vanguard FTSE Developed Europe ex UK UCITS ETF (EUR) Distributing,1.57,2.65,0.56,-6.78,-0.44,,,1618.0,130.0,209.0,False
+736,Vanguard FTSE Developed Europe UCITS ETF - (EUR) Accumulating,1.34,1.98,-0.89,-10.63,-2.91,,,2201.0,354.0,517.0,False
+737,Vanguard FTSE Developed Europe UCITS ETF (EUR) Distributing,1.28,1.95,-1.89,-12.01,-5.58,,,2416.0,433.0,618.0,False
+738,Vanguard FTSE Developed World UCITS ETF (USD) Accumulating,-1.27,1.76,0.78,,,,,1439.0,77.0,614.0,False
+739,Vanguard FTSE Developed World UCITS ETF (USD) Distributing,-1.28,1.78,0.49,-3.76,2.99,,,2177.0,345.0,499.0,False
+740,Vanguard FTSE Emerging Markets UCITS ETF (USD) Accumulating,-1.27,0.38,4.1,-7.6,,,,2003.0,272.0,648.0,False
+741,Vanguard FTSE Emerging Markets UCITS ETF - Dist,-1.41,0.42,3.62,-8.35,-0.55,,,2448.0,444.0,628.0,False
+742,Vanguard FTSE Japan UCITS ETF (USD) Accumulating,0.76,3.19,-2.81,-7.11,,,,1665.0,140.0,447.0,False
+743,Vanguard FTSE Japan UCITS ETF - Dist,0.78,3.29,-3.72,-7.94,-0.9,,,2176.0,344.0,498.0,False
+744,Vanguard FTSE Japan UCITS ETF EUR Hedged Accumulating,-0.04,4.24,3.9,,,,,819.0,15.0,115.0,False
+745,Vanguard FTSE North America UCITS ETF - (USD) Accumulating,-2.39,1.5,1.93,0.99,8.77,,,1775.0,177.0,270.0,False
+746,Vanguard FTSE North America UCITS ETF (USD) Distributing,-2.41,1.45,1.61,0.0,7.01,,,1930.0,235.0,348.0,False
+747,Vanguard Global Aggregate Bond UCITS ETF EUR Hedged Accumulating,0.27,-0.68,1.53,4.13,2.27,,,1915.0,228.0,337.0,False
+748,Vanguard Global Aggregate Bond UCITS ETF EUR Hedged Distributing,0.26,-0.82,1.11,3.18,0.37,,,2075.0,307.0,445.0,False
+749,Vanguard Global Liquidity Factor UCITS ETF (USD) Accumulating,-0.12,1.42,-1.1,-12.11,-3.71,,,2853.0,583.0,773.0,False
+750,Vanguard Global Minimum Volatility UCITS ETF USD Hedged Accumulating,0.04,-0.75,-3.07,-15.43,-12.78,,,3588.0,791.0,927.0,False
+751,Vanguard Global Momentum Factor UCITS ETF (USD) Accumulating,-3.1,-3.03,3.51,-2.8,1.86,,,2696.0,518.0,712.0,False
+752,Vanguard Global Value Factor UCITS ETF (USD) Accumulating,0.55,1.65,-10.21,-23.58,-15.02,,,3246.0,708.0,863.0,False
+753,Vanguard S&P 500 UCITS ETF (USD) Accumulating,-2.02,1.56,1.64,,,,,1462.0,83.0,621.0,False
+754,Vanguard S&P 500 UCITS ETF - Dist,-2.03,1.51,1.3,-0.35,6.56,,,1973.0,259.0,383.0,False
+755,Vanguard UK Gilt UCITS ETF - Dist,-0.91,-2.08,-1.92,0.82,1.72,,,2759.0,543.0,744.0,False
+756,Vanguard USD Corporate 1-3 Year Bond UCITS ETF,1.14,-0.38,-4.07,-4.07,-5.26,,,2767.0,546.0,746.0,False
+757,Vanguard USD Corporate Bond UCITS ETF (USD) Accumulating,1.01,-1.83,-1.97,0.91,-0.23,,,2356.0,416.0,599.0,False
+758,Vanguard USD Corporate Bond UCITS ETF (USD) Distributing,1.14,-1.98,-2.34,-1.21,-2.67,,,2659.0,510.0,702.0,False
+759,Vanguard USD Emerging Markets Government Bond UCITS ETF (USD) Distributing,1.1,-0.96,-1.87,-5.27,-6.56,,,2840.0,578.0,768.0,False
+760,Vanguard USD Treasury Bond UCITS ETF (USD) Distributing,1.2,-1.34,-3.33,1.77,-1.65,,,2442.0,443.0,623.0,False
+761,,-4.9,-0.89,6.11,16.46,26.29,,,1903.0,221.0,608.0,False
+762,WisdomTree AT1 CoCo Bond UCITS ETF - EUR Hedged,1.19,2.09,7.96,-5.31,-1.98,,,1490.0,93.0,164.0,False
+763,,1.95,1.95,-1.73,-8.02,-4.81,,,2157.0,341.0,713.0,False
+764,WisdomTree Battery Solutions UCITS ETF - USD Acc,-3.41,-0.52,7.78,,,,,1723.0,156.0,781.0,False
+765,WisdomTree Cloud Computing UCITS ETF - USD Acc,-10.86,-0.23,12.16,50.32,,,,1666.0,141.0,448.0,False
+766,WisdomTree Emerging Markets Equity Income UCITS ETF,1.24,-2.0,-7.63,-25.24,-18.38,-14.64,0.73,4559.0,915.0,865.0,False
+767,WisdomTree Emerging Markets Equity Income UCITS ETF - Acc,0.22,-1.76,-6.51,-21.83,-14.62,-2.4,,4285.0,895.0,923.0,False
+768,WisdomTree Emerging Markets SmallCap Dividend UCITS ETF,0.84,0.37,-0.71,-16.25,-10.99,-11.12,14.77,3665.0,804.0,692.0,False
+769,WisdomTree Enhanced Commodity UCITS ETF - EUR Hedged Acc,1.84,1.84,10.18,-5.91,-3.87,,,1495.0,94.0,166.0,False
+770,,-0.78,1.73,6.11,-10.02,-7.06,-2.82,,2875.0,590.0,784.0,False
+771,WisdomTree EUR Aggregate Bond Enhanced Yield UCITS ETF - EUR,0.52,-0.09,2.51,1.4,-1.68,,,1907.0,224.0,333.0,False
+772,WisdomTree EUR Aggregate Bond Enhanced Yield UCITS ETF - EUR Acc,0.51,-0.14,5.21,2.24,-0.93,,,1729.0,158.0,250.0,False
+773,WisdomTree EUR Government Bond Enhanced Yield UCITS ETF - EUR,0.4,-0.1,2.18,1.63,-1.11,,,1899.0,218.0,329.0,False
+774,WisdomTree EUR Government Bond Enhanced Yield UCITS ETF EUR Acc,-0.39,-0.39,5.17,3.23,0.59,,,1929.0,233.0,346.0,False
+775,WisdomTree Europe Equity Income UCITS ETF,1.92,1.86,-8.8,-26.12,-18.55,-20.41,-18.28,3993.0,855.0,772.0,False
+776,,2.5,-0.08,15.23,-8.91,-4.0,2.24,,2260.0,379.0,556.0,False
+777,WisdomTree Europe Equity UCITS ETF - USD Hedged,1.33,3.73,-4.05,-16.33,-6.1,4.39,15.39,2995.0,628.0,481.0,False
+778,WisdomTree Europe SmallCap Dividend UCITS ETF,-0.53,1.68,-1.47,-20.06,-6.48,-16.02,-3.49,4042.0,862.0,788.0,False
+779,WisdomTree Europe SmallCap Dividend UCITS ETF - Acc,-1.12,1.48,7.62,-18.59,-2.52,-8.53,,3019.0,639.0,653.0,False
+780,WisdomTree Eurozone Quality Dividend Growth UCITS - EUR Acc,1.1,3.24,5.0,-2.08,7.41,18.64,,1109.0,27.0,31.0,False
+781,WisdomTree Global Quality Dividend Growth UCITS ETF - USD Acc,-0.32,2.78,3.05,0.0,9.28,42.19,,1396.0,68.0,63.0,False
+782,WisdomTree Japan Equity UCITS ETF - EUR Hedged Acc,0.14,4.66,-2.02,-12.07,4.67,-5.76,,2618.0,503.0,504.0,False
+783,WisdomTree Japan Equity UCITS ETF - JPY Acc,4.1,4.1,-2.62,-13.57,-2.82,1.26,,2430.0,438.0,421.0,False
+784,WisdomTree Japan Equity UCITS ETF - USD Hedged,1.8,8.52,-3.69,-16.64,-2.79,-2.56,-1.7,3035.0,644.0,496.0,False
+785,WisdomTree US Equity Income UCITS ETF,-0.92,-0.51,-10.87,-22.74,-17.26,-6.27,6.97,4867.0,948.0,912.0,False
+786,WisdomTree US Equity Income UCITS ETF - Acc,0.81,-0.51,-10.0,-19.78,-15.42,4.36,,3890.0,838.0,861.0,False
+787,WisdomTree US Equity Income UCITS ETF - EUR Hedged Acc,-0.42,-0.42,-15.18,-14.86,-8.29,-5.27,,4319.0,900.0,929.0,False
+788,WisdomTree US Quality Dividend Growth UCITS ETF - USD Acc,0.37,2.2,1.72,-2.97,7.37,41.08,,1524.0,104.0,84.0,False
+789,XACT BEAR,-3.81,-6.34,-10.49,-23.39,-30.42,-47.04,-61.89,5724.0,972.0,959.0,False
+790,XACT BEAR 2,-5.06,-8.38,-13.61,-24.32,-39.99,-58.42,-74.04,5822.0,976.0,964.0,False
+791,XACT BULL,3.67,5.8,8.13,1.74,18.78,36.22,57.55,417.0,5.0,4.0,True
+792,XACT BULL 2,4.96,7.64,10.39,-1.74,21.32,43.83,70.01,510.0,7.0,6.0,False
+793,XACT Högutdelande,1.41,2.83,0.63,-5.96,0.3,17.11,,1706.0,151.0,133.0,False
+794,XACT Norden (UCITS ETF),1.19,3.84,4.55,7.04,15.51,,,532.0,8.0,11.0,True
+795,XACT Obligation (UCITS ETF),0.24,0.19,0.79,1.24,-0.19,3.23,,2323.0,406.0,353.0,False
+796,XACT OBX,-1.16,-0.7,-4.69,-12.32,-6.47,9.47,39.09,4027.0,861.0,786.0,False
+797,XACT OBX  Bear,-0.36,-1.15,1.5,3.75,-8.24,-39.21,-68.72,3756.0,818.0,709.0,False
+798,XACT OBX Bull,-0.23,-0.06,-6.0,-25.91,-17.99,4.39,51.16,4185.0,881.0,818.0,False
+799,XACT OMXC25,0.42,2.26,10.97,19.11,28.97,,,677.0,12.0,14.0,True
+800,XACT OMXS30,2.44,3.93,5.82,3.13,14.69,27.44,43.0,558.0,9.0,7.0,True
+801,XACT Svenska Småbolag (UCITS ETF),2.0,4.28,12.25,8.23,21.38,56.16,,254.0,2.0,2.0,True
+802,XACT Sverige (UCITS ETF),2.21,2.93,1.05,-1.48,8.7,,,992.0,21.0,35.0,False
+803,Xtrackers Artificial Intelligence & Big Data UCITS ETF 1C,-3.06,-0.96,2.44,4.39,12.38,,,2122.0,325.0,470.0,False
+804,Xtrackers ATX UCITS ETF 1C,1.45,2.75,-9.73,-28.76,-22.59,-25.88,10.14,3819.0,831.0,729.0,False
+805,Xtrackers CAC 40 UCITS ETF 1D,2.38,3.32,-1.68,-18.39,-11.81,-2.84,9.23,3048.0,649.0,500.0,False
+806,Xtrackers CSI300 Swap UCITS ETF 1C,-3.12,0.68,17.01,15.1,20.1,40.95,49.29,1575.0,117.0,57.0,False
+807,Xtrackers DAX Income UCITS ETF 1D,2.06,4.45,3.18,-4.47,3.79,-3.19,10.56,1757.0,169.0,80.0,False
+808,Xtrackers DAX UCITS ETF 1C,2.1,4.5,3.2,-0.42,8.2,6.2,26.07,1174.0,36.0,21.0,False
+809,Xtrackers DB Bloomberg Commodity Optimum Yield Swap UCITS ETF 2C EUR Hedged,-2.61,0.53,9.37,-10.62,-6.42,-17.06,-18.88,3797.0,826.0,721.0,False
+810,Xtrackers DBLCI Commodity Optimum Yield Swap UCITS ETF 1C EUR Hedged,-3.86,-1.05,7.23,-12.51,-8.03,-17.23,-16.71,4290.0,896.0,837.0,False
+811,Xtrackers EUR Credit 12.5 Swap UCITS ETF 1C,1.1,-0.63,3.61,4.45,0.2,24.64,41.08,1816.0,191.0,95.0,False
+812,Xtrackers Euro STOXX 50 Short Daily Swap UCITS ETF 1C,-1.72,-2.76,-1.25,0.28,-8.12,-20.22,-37.54,4331.0,902.0,841.0,False
+813,Xtrackers Euro STOXX 50 UCITS ETF 1C,1.57,2.33,-0.34,-9.72,-2.33,5.61,20.35,2512.0,472.0,284.0,False
+814,Xtrackers Euro STOXX 50 UCITS ETF 1D,1.58,2.35,-0.34,-13.03,-5.93,-3.5,3.67,3032.0,642.0,495.0,False
+815,Xtrackers Euro STOXX Quality Dividend UCITS ETF 1D,2.38,2.69,-2.36,-18.27,-10.7,-16.28,-1.56,3336.0,735.0,609.0,False
+816,Xtrackers FTSE 100 Income UCITS ETF 1D,0.63,-0.3,-7.97,-29.07,-21.44,-21.09,-25.19,4728.0,934.0,891.0,False
+817,Xtrackers FTSE 100 Short Daily Swap UCITS ETF 1C,-4.63,-1.28,3.14,7.8,7.55,0.62,-42.23,3090.0,663.0,520.0,False
+818,Xtrackers FTSE 100 UCITS ETF 1C,0.64,-0.25,-7.97,-23.93,-15.58,-8.06,-5.16,4500.0,912.0,858.0,False
+819,Xtrackers FTSE 250 UCITS ETF 1D,-2.0,0.33,-4.36,-27.25,-13.4,-13.6,-21.62,4811.0,942.0,903.0,False
+820,Xtrackers FTSE All-Share UCITS ETF 1D,0.22,-0.08,-7.08,-28.83,-20.23,-20.36,-25.43,4759.0,939.0,898.0,False
+821,Xtrackers FTSE China 50 UCITS ETF 1C,-2.07,1.24,1.17,-6.51,1.23,8.55,30.34,2787.0,554.0,392.0,False
+822,Xtrackers FTSE Developed Europe ex UK Real Estate UCITS ETF 1C,1.9,1.46,-2.64,-16.49,-7.19,7.13,31.16,2972.0,616.0,472.0,False
+823,Xtrackers FTSE Developed Europe Real Estate UCITS ETF 1C,0.82,0.62,-2.88,-17.85,-5.76,3.61,6.74,3592.0,792.0,676.0,False
+824,Xtrackers FTSE MIB UCITS ETF 1D,0.88,1.31,-1.84,-19.85,-13.49,-13.07,-13.19,3880.0,837.0,747.0,False
+825,Xtrackers FTSE Vietnam Swap UCITS ETF 1C,1.48,2.17,-5.73,-11.14,-15.8,13.29,16.94,3082.0,661.0,518.0,False
+826,Xtrackers Future Mobility UCITS ETF 1C,1.24,5.47,1.72,-6.35,4.1,,,1248.0,44.0,78.0,False
+827,Xtrackers Germany Mittelstand & MidCap UCITS ETF 1D,0.04,1.71,4.48,0.35,10.92,3.5,32.86,1794.0,179.0,85.0,True
+828,Xtrackers Harvest CSI300 UCITS ETF 1D,-3.21,-0.09,14.94,9.68,12.72,15.3,21.34,2039.0,287.0,146.0,False
+829,Xtrackers Harvest FTSE China A-H 50 UCITS ETF 1D,-1.55,0.85,5.79,-2.35,1.99,20.79,,2158.0,342.0,286.0,False
+830,Xtrackers iBoxx EUR Corporate Bond Yield Plus UCITS ETF 1D,0.52,0.71,-0.38,-1.58,-2.13,2.98,,2613.0,500.0,501.0,False
+831,Xtrackers iBoxx USD Corporate Bond Yield Plus UCITS ETF 1D,0.99,-0.58,-4.4,-3.12,-2.84,,,2776.0,548.0,748.0,False
+832,Xtrackers iBoxx USD Corporate Bond Yield Plus UCITS ETF 2C EUR Hedged,0.78,0.2,5.06,4.71,6.81,,,1235.0,42.0,76.0,True
+834,Xtrackers II ESG EUR Corporate Bond UCITS ETF 1D,0.15,0.0,0.85,0.04,-0.58,3.46,9.17,2790.0,557.0,395.0,False
+835,Xtrackers II EUR Corporate Bond UCITS ETF 1C,0.37,0.17,1.37,0.48,-0.24,5.35,11.19,2478.0,458.0,269.0,False
+836,Xtrackers II EUR Covered Bond Swap UCITS ETF 1C,0.12,-0.27,0.75,1.65,-1.4,6.71,9.56,2810.0,570.0,407.0,False
+837,Xtrackers II EUR High Yield Corporate Bond 1-3 Swap UCITS ETF 1D,0.58,1.09,-2.23,-5.02,-3.7,-4.73,-5.78,3436.0,753.0,631.0,False
+838,Xtrackers II EUR High Yield Corporate Bond UCITS ETF 1C,-0.03,0.93,1.18,-2.33,-0.84,3.74,,2523.0,476.0,457.0,False
+839,Xtrackers II EUR High Yield Corporate Bond UCITS ETF 1D,-0.06,0.91,-1.22,-4.78,-3.21,-6.98,-2.28,3592.0,792.0,676.0,False
+840,Xtrackers II EUR Overnight Rate Swap UCITS ETF 1C,0.0,-0.01,-0.09,-0.38,-0.56,-1.5,-2.42,3185.0,694.0,559.0,False
+841,Xtrackers II EUR Overnight Rate Swap UCITS ETF 1D,-0.01,-0.06,-0.14,-0.4,-0.57,-1.52,-5.12,3249.0,711.0,580.0,False
+842,Xtrackers II Eurozone AAA Government Bond Swap UCITS ETF 1C,0.27,-0.77,1.26,1.84,-1.36,6.13,10.12,2791.0,558.0,396.0,False
+843,Xtrackers II Eurozone AAA Government Bond Swap UCITS ETF 1D,-0.38,-0.15,1.31,1.98,-2.29,5.39,8.08,2944.0,606.0,458.0,False
+844,Xtrackers II Eurozone Government Bond 1-3 UCITS ETF 1C,0.1,0.05,0.16,-0.25,-0.8,-0.69,-0.5,3078.0,659.0,515.0,False
+845,Xtrackers II Eurozone Government Bond 1-3 UCITS ETF 1D,0.02,0.01,0.17,-0.22,-0.77,-0.78,-1.18,3134.0,678.0,535.0,False
+846,Xtrackers II Eurozone Government Bond 15-30 UCITS ETF 1C,0.53,-1.61,4.85,6.19,-0.51,26.38,37.74,2056.0,300.0,153.0,False
+847,Xtrackers II Eurozone Government Bond 25+ UCITS ETF 1C,1.23,-2.12,6.73,9.25,0.82,37.39,51.64,1655.0,137.0,66.0,False
+848,Xtrackers II Eurozone Government Bond 3-5 UCITS ETF 1C,0.18,0.09,0.74,0.78,-0.45,2.81,5.15,2769.0,547.0,384.0,False
+849,Xtrackers II Eurozone Government Bond 3-5 UCITS ETF 1D,0.06,-0.11,0.33,0.18,-0.75,2.35,4.05,3014.0,636.0,489.0,False
+850,Xtrackers II Eurozone Government Bond 5-7 UCITS ETF 1C,0.39,0.02,1.27,1.56,-0.49,5.76,9.99,2476.0,457.0,267.0,False
+851,Xtrackers II Eurozone Government Bond 7-10 UCITS ETF 1C,0.28,-0.4,1.82,2.41,-0.69,10.53,17.7,2421.0,435.0,251.0,False
+852,Xtrackers II Eurozone Government Bond Short Daily Swap UCITS ETF 1C,-0.49,0.41,-2.67,-3.98,-1.67,-13.75,-19.86,3830.0,833.0,732.0,False
+853,Xtrackers II Eurozone Government Bond UCITS ETF 1C,0.33,-0.65,1.97,2.45,-0.53,10.01,14.93,2459.0,450.0,260.0,False
+854,Xtrackers II Eurozone Government Bond UCITS ETF 1D,0.34,-0.54,1.79,2.27,-0.7,8.55,11.45,2518.0,473.0,287.0,False
+855,Xtrackers II Eurozone Government Bond UCITS ETF 2C - USD Hedged,1.47,-0.84,-3.37,,,,,1672.0,142.0,749.0,False
+856,Xtrackers II Eurozone Inflation-Linked Bond UCITS ETF 1C,-0.16,-1.26,2.85,-0.48,-2.46,5.64,10.67,3104.0,669.0,526.0,False
+857,Xtrackers II GBP Overnight Rate Swap UCITS ETF 1D,-1.81,-0.62,-1.51,-6.48,-1.69,-0.61,-21.48,4108.0,870.0,803.0,False
+858,Xtrackers II Germany Government Bond 1-3 UCITS ETF 1D,-0.12,-0.11,-0.02,-0.52,-1.25,-2.34,-3.19,3374.0,744.0,617.0,False
+859,Xtrackers II Germany Government Bond UCITS ETF 1C,0.33,-0.52,1.41,1.96,-1.66,6.33,9.93,2718.0,528.0,358.0,False
+860,Xtrackers II Germany Government Bond UCITS ETF 1D,0.4,-0.53,1.34,1.96,-1.63,6.38,8.73,2711.0,526.0,356.0,False
+861,Xtrackers II Global Aggregate Bond Swap UCITS ETF 1D,0.73,-0.41,-2.53,-0.92,-2.93,7.04,4.7,3228.0,703.0,572.0,False
+862,Xtrackers II Global Aggregate Bond Swap UCITS ETF 5C EUR Hedged,0.05,-0.69,0.73,3.11,1.46,6.16,10.1,2728.0,531.0,364.0,False
+863,Xtrackers II Global Government Bond UCITS ETF 1C EUR Hedged,0.14,-0.86,1.02,3.97,1.54,7.31,10.81,2624.0,507.0,321.0,False
+864,Xtrackers II Global Government Bond UCITS ETF 1D EUR Hedged,0.29,-0.76,0.12,3.12,0.49,4.56,7.03,2811.0,571.0,408.0,False
+865,Xtrackers II Global Government Bond UCITS ETF 5C,0.69,-0.91,-1.02,1.72,-1.51,12.35,14.49,2823.0,572.0,413.0,False
+866,Xtrackers II Global Inflation-Linked Bond UCITS ETF 1C EUR Hedged,0.19,-0.37,3.21,6.79,3.26,8.0,17.55,2175.0,343.0,183.0,False
+867,Xtrackers II Global Inflation-Linked Bond UCITS ETF 1D EUR Hedged,0.48,-0.39,1.71,5.26,1.75,4.82,9.51,2376.0,423.0,237.0,False
+868,Xtrackers II Global Inflation-Linked Bond UCITS ETF 5C,0.35,-0.8,0.56,2.7,0.64,14.05,14.72,2540.0,482.0,295.0,False
+869,Xtrackers II Harvest China Government Bond UCITS ETF 1D,0.73,1.12,-4.62,-3.6,-1.92,3.34,-6.82,3247.0,709.0,578.0,False
+870,Xtrackers II iBoxx Eurozone Government Bond Yield Plus 1-3 UCITS ETF 1C,0.1,0.15,0.43,0.18,-0.27,1.2,1.65,2902.0,601.0,443.0,False
+871,Xtrackers II iBoxx Eurozone Government Bond Yield Plus 1-3 UCITS ETF 1D,0.02,0.0,-0.12,-0.32,-0.72,0.62,0.33,3138.0,680.0,538.0,False
+872,Xtrackers II iBoxx Eurozone Government Bond Yield Plus UCITS ETF 1C,0.24,-0.6,2.36,2.59,0.37,11.75,17.41,2362.0,417.0,234.0,False
+873,Xtrackers II iBoxx Eurozone Government Bond Yield Plus UCITS ETF 1D,0.25,-0.54,1.41,1.37,-0.83,7.92,10.72,2666.0,512.0,330.0,False
+874,Xtrackers II iBoxx Germany Covered Bond Swap UCITS ETF 1C,0.21,-0.14,0.88,0.8,-1.04,3.25,4.68,2863.0,585.0,430.0,False
+875,Xtrackers II iBoxx Germany Covered Bond Swap UCITS ETF 1D,0.26,0.1,0.59,1.03,-1.49,2.33,0.82,2881.0,593.0,435.0,False
+876,Xtrackers II Italy Government Bond 0-1 Swap UCITS ETF 1C,0.03,0.01,0.12,-0.1,-0.17,-0.57,-1.16,3064.0,654.0,509.0,False
+877,Xtrackers II iTraxx Crossover Short Daily Swap UCITS ETF 1C,0.04,-1.39,-1.94,-0.95,-2.2,-12.8,-24.85,3941.0,844.0,760.0,False
+878,Xtrackers II iTraxx Crossover Swap UCITS ETF 1C,-0.1,1.46,2.4,-2.43,-2.5,2.23,10.43,2791.0,558.0,396.0,False
+879,Xtrackers II iTraxx Europe Swap UCITS ETF 1C,-0.13,0.2,0.41,-0.05,0.39,1.98,3.85,2944.0,606.0,458.0,False
+880,Xtrackers II Japan Government Bond UCITS ETF 1C,0.81,-0.98,-2.38,-3.9,-9.29,4.77,13.33,3539.0,775.0,656.0,False
+881,Xtrackers II USD Asia ex Japan Corporate Bond UCITS ETF 1D,0.92,0.2,-4.06,-2.26,-3.04,7.17,,2792.0,560.0,589.0,False
+882,Xtrackers II USD Emerging Markets Bond UCITS ETF 1C EUR Hedged,-0.31,-0.19,3.49,-1.78,-1.4,-0.03,11.3,3008.0,634.0,486.0,False
+883,Xtrackers II USD Emerging Markets Bond UCITS ETF 2C,1.25,0.68,0.18,,,,,1137.0,32.0,327.0,True
+884,Xtrackers II USD Emerging Markets Bond UCITS ETF 2D,0.82,-0.36,-5.02,-9.79,-9.89,,,3176.0,693.0,857.0,False
+885,Xtrackers II USD Overnight Rate Swap UCITS ETF 1C,1.1,-0.28,-4.46,-5.1,-5.82,6.29,-0.39,3473.0,765.0,643.0,False
+886,Xtrackers II US Treasuries 1-3 UCITS ETF 1D,1.09,-0.26,-6.4,-4.86,-5.71,4.45,,3188.0,696.0,701.0,False
+887,Xtrackers II US Treasuries UCITS ETF 1D,1.3,-1.26,-3.94,2.24,-0.7,13.6,,2511.0,470.0,456.0,False
+888,Xtrackers II US Treasuries UCITS ETF 2D EUR Hedged,0.13,-1.12,-0.53,6.01,3.41,3.57,,2555.0,489.0,477.0,False
+889,Xtrackers JPX-Nikkei 400 UCITS ETF 1D,0.82,4.17,-2.67,-8.62,-0.66,6.98,19.74,2518.0,473.0,287.0,False
+890,Xtrackers JPX-Nikkei 400 UCITS ETF 3C EUR Hedged,0.75,4.51,-0.47,-5.34,8.23,5.32,15.18,2074.0,304.0,160.0,False
+891,Xtrackers LevDAX Daily Swap UCITS ETF 1C,3.97,8.79,5.12,-9.8,5.91,-1.69,27.25,1558.0,110.0,53.0,False
+892,Xtrackers LPX Private Equity Swap UCITS ETF 1C,-1.79,-2.67,-6.81,-15.34,-9.94,16.53,33.98,4379.0,907.0,849.0,False
+893,Xtrackers MSCI AC Asia ex Japan Swap UCITS ETF 1C,-1.19,0.4,6.14,-1.13,8.18,15.15,51.82,2058.0,302.0,156.0,False
+894,Xtrackers MSCI AC World UCITS ETF 1C,-1.42,1.44,1.25,-3.23,4.24,28.3,51.88,2255.0,377.0,205.0,False
+895,Xtrackers MSCI Africa Top 50 Swap UCITS ETF 1C,1.45,5.27,-0.76,-23.44,-18.63,-20.4,-15.2,3427.0,751.0,627.0,False
+896,Xtrackers MSCI Brazil UCITS ETF 1C,1.59,-0.79,-7.92,-37.46,-29.79,-18.6,40.94,4292.0,897.0,838.0,False
+897,Xtrackers MSCI Canada UCITS ETF 1C,-1.06,0.66,0.91,-9.61,-6.1,8.14,24.56,3312.0,730.0,604.0,False
+898,Xtrackers MSCI China UCITS ETF 1C,-3.56,0.31,9.85,7.94,18.84,25.88,69.89,1718.0,154.0,71.0,False
+899,Xtrackers MSCI EM Asia Swap UCITS ETF 1C,-1.5,-0.27,7.19,0.74,11.84,17.39,57.27,2053.0,298.0,152.0,False
+900,Xtrackers MSCI Emerging Markets ESG UCITS ETF 1C,-2.42,-0.08,6.55,-2.61,,,,1954.0,250.0,624.0,False
+901,Xtrackers MSCI Emerging Markets Swap UCITS ETF 1C,-1.11,-0.12,4.29,-7.09,2.48,7.62,41.79,2698.0,520.0,343.0,False
+902,Xtrackers MSCI Emerging Markets UCITS ETF 1C,-1.21,-0.1,4.66,-6.54,2.86,8.48,,2542.0,485.0,467.0,False
+903,"Xtrackers MSCI EM Europe, Middle East & Africa Swap UCITS ETF 1C",-0.81,0.16,-5.3,-23.44,-18.33,-14.81,-2.82,4694.0,928.0,884.0,False
+904,Xtrackers MSCI EM Latin America Swap UCITS ETF 1C,0.97,-0.85,-8.8,-34.88,-29.01,-26.21,4.55,4739.0,936.0,893.0,False
+905,Xtrackers MSCI EMU Minimum Volatility UCITS ETF 1D,1.15,1.52,-0.14,-14.85,-10.69,-2.79,,3005.0,631.0,649.0,False
+906,Xtrackers MSCI EMU UCITS ETF 1D,1.3,2.46,-0.29,-13.01,-6.67,-4.54,8.27,3075.0,658.0,514.0,False
+907,Xtrackers MSCI Europe ESG UCITS ETF 1C,1.71,2.24,1.53,-6.26,4.93,,,1338.0,57.0,107.0,False
+908,Xtrackers MSCI Europe Mid Cap UCITS ETF 1C,0.64,1.79,1.27,-8.03,1.13,9.24,24.16,2275.0,387.0,214.0,False
+909,Xtrackers MSCI Europe Small Cap UCITS ETF 1C,0.07,1.69,1.04,-10.72,1.84,5.94,25.73,2618.0,503.0,319.0,False
+910,Xtrackers MSCI Europe UCITS ETF 1C,1.37,1.97,-1.05,-11.16,-3.97,5.27,16.41,2787.0,554.0,392.0,False
+911,Xtrackers MSCI Europe UCITS ETF 1D,1.4,1.93,-1.11,-15.06,-7.87,-2.19,,2875.0,590.0,613.0,False
+912,Xtrackers MSCI Europe Value UCITS ETF 1C,2.04,2.17,-5.49,-19.18,-10.23,-9.78,-2.4,3569.0,786.0,669.0,False
+913,Xtrackers MSCI GCC Select Swap UCITS ETF 1C,1.94,5.67,0.74,-12.17,-11.7,17.2,11.31,2412.0,432.0,249.0,False
+914,Xtrackers MSCI India Swap UCITS ETF 1C,-0.21,1.93,10.24,-11.66,-3.98,-1.85,17.38,2881.0,593.0,435.0,False
+915,Xtrackers MSCI Indonesia Swap UCITS ETF 1C,-2.45,1.26,-7.62,-27.07,-25.77,-18.19,16.31,4683.0,927.0,883.0,False
+916,Xtrackers MSCI Japan ESG UCITS ETF,0.36,3.57,-1.44,-3.62,5.54,,,1734.0,159.0,253.0,False
+917,Xtrackers MSCI Japan UCITS ETF 1C,0.68,3.12,-2.88,-7.12,0.57,12.82,27.63,2368.0,421.0,235.0,False
+918,Xtrackers MSCI Japan UCITS ETF 4C EUR Hedged,-0.19,3.62,-0.59,-5.62,5.61,5.64,13.04,2499.0,463.0,276.0,False
+919,Xtrackers MSCI Korea UCITS ETF 1C,2.75,0.53,3.29,-1.61,12.84,6.08,50.5,1489.0,92.0,43.0,False
+920,Xtrackers MSCI Malaysia UCITS ETF 1C,-2.77,-7.18,-8.56,-14.1,-11.87,-9.59,3.41,5128.0,958.0,937.0,False
+921,Xtrackers MSCI Mexico UCITS ETF 1C,-0.5,-1.31,-11.08,-31.53,-27.25,-36.96,-34.0,5372.0,968.0,951.0,False
+922,Xtrackers MSCI Nordic UCITS ETF 1D,0.82,2.74,6.38,-0.74,8.47,8.77,18.69,1403.0,71.0,37.0,False
+923,Xtrackers MSCI North America High Dividend Yield UCITS ETF 1C,0.62,0.87,-5.48,-11.49,-6.29,21.21,55.03,3190.0,697.0,561.0,False
+924,Xtrackers MSCI Pacific ex Japan UCITS ETF 1C,-0.34,1.75,-2.9,-13.6,-10.75,3.44,30.56,3608.0,797.0,683.0,False
+925,Xtrackers MSCI Pakistan Swap UCITS ETF 1C,1.79,1.79,7.51,-17.55,7.9,-44.44,-45.76,2505.0,468.0,280.0,False
+926,Xtrackers MSCI Philippines UCITS ETF 1C,3.19,2.13,-11.03,-25.32,-26.27,-23.57,-22.83,3979.0,852.0,770.0,False
+927,Xtrackers MSCI Russia Capped Swap UCITS ETF 1C,-5.33,-7.7,-13.6,-30.95,-19.98,17.61,54.18,4843.0,946.0,909.0,False
+928,Xtrackers MSCI Singapore UCITS ETF 1C,0.04,-0.25,-9.67,-22.67,-18.85,-5.8,11.34,4582.0,918.0,869.0,False
+929,Xtrackers MSCI Taiwan UCITS ETF 1C,0.98,-1.93,10.63,5.36,24.98,39.68,95.27,1350.0,59.0,34.0,False
+930,Xtrackers MSCI Thailand UCITS ETF 1C,0.03,-3.13,-16.43,-27.62,-30.54,-11.11,13.8,5055.0,954.0,932.0,False
+931,Xtrackers MSCI USA Consumer Discretionary UCITS ETF 1D,-4.86,5.0,13.58,23.27,26.59,,,1031.0,22.0,41.0,False
+932,Xtrackers MSCI USA Consumer Staples UCITS ETF 1D,0.72,3.06,3.45,-4.31,-1.58,,,1560.0,112.0,184.0,False
+933,Xtrackers MSCI USA Energy UCITS ETF 1D,-2.96,-7.57,-28.29,-48.12,-46.1,,,4716.0,931.0,978.0,False
+934,Xtrackers MSCI USA ESG UCITS ETF 1C,-2.85,1.28,0.86,1.76,9.92,,,1936.0,240.0,354.0,False
+935,Xtrackers MSCI USA Financials UCITS ETF 1D,-0.07,1.54,-10.61,-24.42,-14.0,,,3508.0,769.0,915.0,False
+936,Xtrackers MSCI USA Health Care UCITS ETF 1D,-0.08,-1.16,-1.97,-1.4,10.87,,,2539.0,480.0,663.0,False
+937,Xtrackers MSCI USA Information Technology UCITS ETF 1D,-6.16,1.39,10.8,20.52,34.67,,,1398.0,69.0,127.0,False
+938,Xtrackers MSCI USA Swap UCITS ETF 1C,-2.58,1.42,2.3,1.74,9.61,49.77,81.51,1794.0,179.0,85.0,False
+939,Xtrackers MSCI USA UCITS ETF 1C,-2.53,1.4,2.2,1.57,9.39,48.69,80.1,1813.0,190.0,93.0,False
+940,Xtrackers MSCI USA UCITS ETF 2C - EUR Hedged,-3.56,1.64,6.72,6.1,14.66,,,1444.0,79.0,140.0,False
+941,Xtrackers MSCI World Communication Services UCITS ETF 1C,-2.35,0.75,3.31,2.47,8.26,33.43,,1832.0,197.0,179.0,False
+942,Xtrackers MSCI World Consumer Discretionary UCITS ETF 1C,-3.14,4.58,8.77,10.48,15.33,55.55,,1124.0,30.0,32.0,False
+943,Xtrackers MSCI World Consumer Staples UCITS ETF 1C,1.15,2.09,1.68,-3.39,-2.55,19.14,,1838.0,200.0,181.0,False
+944,Xtrackers MSCI World Energy UCITS ETF 1C,-2.46,-5.67,-24.06,-42.74,-39.1,-34.52,,5280.0,963.0,973.0,False
+945,Xtrackers MSCI World ESG UCITS ETF,-1.53,1.63,0.35,-1.93,5.94,,,2115.0,324.0,464.0,False
+946,Xtrackers MSCI World Financials UCITS ETF 1C,0.08,2.16,-8.47,-22.63,-14.61,-3.46,,3731.0,813.0,844.0,False
+947,Xtrackers MSCI World Health Care UCITS ETF 1C,0.1,-0.77,-2.06,-0.12,11.35,36.73,,2380.0,424.0,387.0,False
+948,Xtrackers MSCI World High Dividend Yield UCITS ETF 1D,1.17,0.9,-5.08,-16.58,-10.47,,,2976.0,619.0,815.0,False
+949,Xtrackers MSCI World Industrials UCITS ETF 1C,0.6,4.3,-0.2,-8.12,-1.82,17.18,,2200.0,353.0,304.0,False
+950,Xtrackers MSCI World Information Technology UCITS ETF 1C,-5.68,0.69,9.69,18.96,32.5,101.93,,1517.0,102.0,82.0,False
+951,Xtrackers MSCI World Materials UCITS ETF 1C,2.29,4.1,5.99,0.7,8.62,20.07,,673.0,11.0,12.0,True
+952,Xtrackers MSCI World Minimum Volatility UCITS ETF 1C,0.75,0.26,-2.11,-7.41,-6.31,25.26,46.86,2928.0,605.0,454.0,False
+953,Xtrackers MSCI World Momentum UCITS ETF 1C,-4.15,0.39,8.75,7.65,10.29,58.29,93.5,1705.0,150.0,70.0,False
+954,Xtrackers MSCI World Quality UCITS ETF 1C,-0.89,2.56,0.56,-2.35,5.72,38.46,64.02,1978.0,261.0,130.0,False
+955,Xtrackers MSCI World Swap UCITS ETF 1C,-1.48,1.58,0.92,-2.83,4.54,31.52,54.28,2231.0,364.0,201.0,False
+956,Xtrackers MSCI World Swap UCITS ETF 4C EUR Hedged,-2.18,1.69,3.97,0.52,8.09,22.13,48.4,1858.0,205.0,103.0,False
+957,Xtrackers MSCI World UCITS ETF 1C,-1.46,1.63,0.91,-2.79,4.47,31.42,54.33,2220.0,361.0,198.0,False
+958,Xtrackers MSCI World UCITS ETF 1D,-1.45,1.61,0.93,-4.98,2.17,23.83,39.51,2456.0,449.0,259.0,False
+959,Xtrackers MSCI World Utilities UCITS ETF 1C,2.48,-1.95,-5.0,-8.1,-5.06,18.81,,3088.0,662.0,680.0,False
+960,Xtrackers MSCI World Value UCITS ETF 1C,0.98,1.8,-9.9,-21.11,-13.31,-4.44,11.66,3812.0,829.0,725.0,False
+961,Xtrackers Nifty 50 Swap UCITS ETF 1C,-0.89,2.56,9.22,-15.48,-6.75,-1.35,20.44,3001.0,630.0,484.0,False
+962,Xtrackers Nikkei 225 UCITS ETF 1D,1.01,2.88,-1.83,-5.2,2.87,25.25,40.95,1954.0,250.0,125.0,False
+963,Xtrackers Nikkei 225 UCITS ETF 2D EUR Hedged,1.48,3.5,0.54,-3.7,8.01,,,1230.0,40.0,73.0,False
+964,Xtrackers Portfolio Income UCITS ETF 1D,0.38,0.43,-0.2,-4.41,-2.68,2.92,14.56,3078.0,659.0,515.0,False
+965,Xtrackers Portfolio UCITS ETF 1C,0.55,1.34,0.42,-5.16,0.47,8.74,24.64,2425.0,437.0,252.0,False
+966,Xtrackers Russell 2000 UCITS ETF 1C,-2.14,-2.61,-5.08,-13.16,-5.31,13.42,29.84,4266.0,890.0,832.0,False
+967,Xtrackers Russell Midcap UCITS ETF 1C,-1.68,-0.61,-3.66,-8.25,-3.26,26.25,43.68,3677.0,808.0,695.0,False
+968,Xtrackers S&P 500 2x Inverse Daily Swap UCITS ETF 1C,6.72,-4.75,-18.25,-39.2,-49.19,-65.5,-83.13,4954.0,950.0,918.0,False
+969,Xtrackers S&P 500 2x Leveraged Daily Swap UCITS ETF 1C,-5.25,2.97,6.68,-5.45,10.01,68.33,150.32,1768.0,173.0,81.0,False
+970,Xtrackers S&P 500 Equal Weight UCITS ETF 1C,-0.35,1.14,-5.86,-8.96,-2.81,25.8,48.03,3266.0,720.0,594.0,False
+971,Xtrackers S&P 500 Inverse Daily Swap UCITS ETF 1C,4.04,-2.32,-11.18,-19.66,-26.71,-34.2,-54.86,4667.0,925.0,880.0,False
+972,Xtrackers S&P 500 Swap UCITS ETF 1C,-2.0,1.57,1.72,0.72,8.65,48.73,81.72,1822.0,192.0,96.0,False
+973,Xtrackers S&P 500 UCITS ETF 1C EUR Hedged,-3.17,1.67,5.98,4.78,13.33,32.94,68.17,1569.0,115.0,56.0,False
+974,Xtrackers S&P 500 UCITS ETF 1D EUR Hedged,-3.15,1.67,6.09,2.93,11.27,,,1510.0,99.0,173.0,False
+975,Xtrackers S&P ASX 200 UCITS ETF 1D,-0.67,0.5,-2.73,-17.72,-14.11,-7.66,8.82,4274.0,893.0,834.0,False
+976,Xtrackers S&P Europe ex UK UCITS ETF 1D,1.44,2.45,1.38,-8.52,-1.6,,,1740.0,160.0,254.0,False
+977,Xtrackers S&P Global Infrastructure Swap UCITS ETF 1C,1.68,-0.68,-9.25,-20.6,-17.56,-5.39,12.82,4186.0,882.0,819.0,False
+978,Xtrackers S&P Select Frontier Swap UCITS ETF 1C,-1.51,1.35,-1.0,-23.97,-19.22,-12.15,25.13,4138.0,877.0,810.0,False
+979,Xtrackers ShortDAX Daily Swap UCITS ETF 1C,-2.25,-4.76,-4.87,-9.75,-17.67,-22.15,-41.4,5148.0,959.0,940.0,False
+980,Xtrackers ShortDAX x2 Daily Swap UCITS ETF 1C,-4.59,-9.51,-10.51,-25.24,-37.9,-45.94,-71.09,5778.0,973.0,961.0,False
+981,Xtrackers SLI UCITS ETF 1D,1.83,2.66,3.62,-2.23,5.66,20.7,26.49,1269.0,49.0,28.0,False
+982,Xtrackers Spain UCITS ETF 1C,0.79,0.71,-9.45,-25.48,-19.08,-23.57,,3983.0,853.0,874.0,False
+983,Xtrackers Spain UCITS ETF 1D,0.78,0.67,-9.51,-29.35,-21.88,-32.82,,4068.0,863.0,895.0,False
+984,Xtrackers STOXX Europe 600 Banks Swap UCITS ETF 1C,0.41,0.98,-13.23,-36.16,-26.2,-43.3,-44.54,4739.0,936.0,893.0,False
+985,Xtrackers STOXX Europe 600 Basic Resources Swap UCITS ETF 1C,0.43,2.97,3.69,-6.49,4.11,7.84,63.8,1728.0,157.0,75.0,False
+986,Xtrackers STOXX Europe 600 Food & Beverage Swap UCITS ETF 1C,2.15,2.69,-1.49,-10.93,-15.06,9.61,31.7,2616.0,501.0,316.0,False
+987,Xtrackers STOXX Europe 600 Health Care Swap UCITS ETF 1C,2.14,1.01,-1.14,-0.12,8.38,29.53,27.65,1694.0,148.0,69.0,False
+988,Xtrackers STOXX Europe 600 Industrial Goods Swap UCITS ETF 1C,1.81,5.44,4.9,-6.65,6.12,16.85,45.82,1210.0,39.0,24.0,False
+989,Xtrackers STOXX Europe 600 Oil & Gas Swap UCITS ETF 1C,-0.75,-1.09,-14.7,-33.78,-29.3,-18.54,-2.59,5290.0,964.0,946.0,False
+990,Xtrackers STOXX Europe 600 Technology Swap UCITS ETF 1C,-3.02,-0.29,5.18,8.23,19.42,39.65,91.14,1857.0,204.0,102.0,False
+991,Xtrackers STOXX Europe 600 Telecommunications Swap UCITS ETF 1C,-1.16,0.32,-7.15,-14.86,-12.82,-17.47,-28.62,4702.0,929.0,886.0,False
+992,Xtrackers STOXX Europe 600 UCITS ETF 1C,1.33,1.88,-0.67,-10.06,-2.43,6.88,18.82,2650.0,509.0,324.0,False
+993,Xtrackers STOXX Europe 600 UCITS ETF 2C - EUR Hedged,1.31,2.1,-0.11,-8.45,-0.85,,,1932.0,237.0,351.0,False
+994,Xtrackers STOXX Europe 600 Utilities Swap UCITS ETF 1C,0.67,-1.04,1.39,0.63,9.5,29.76,46.11,1986.0,265.0,132.0,False
+995,Xtrackers STOXX Global Select Dividend 100 Swap UCITS ETF 1D,1.39,2.3,-7.38,-25.72,-19.78,-17.16,-9.3,3932.0,842.0,758.0,False
+996,Xtrackers Switzerland UCITS ETF 1D,2.38,2.76,3.13,-0.83,3.86,27.05,26.58,1189.0,37.0,22.0,False
+997,Xtrackers USD Corporate Bond UCITS ETF 1D,0.99,-2.86,-5.48,-1.97,-2.17,13.26,,3098.0,668.0,686.0,False
+998,Xtrackers USD Corporate Bond UCITS ETF 2D EUR Hedged,-0.37,-2.63,-3.01,1.2,1.38,2.49,,3150.0,685.0,694.0,False
+999,Xtrackers USD Emerging Markets Bond Quality Weighted UCITS ETF 1D,1.05,-0.81,-5.19,-6.6,-7.06,2.12,,3442.0,755.0,779.0,False
+1000,Xtrackers USD Emerging Markets Bond Quality Weighted UCITS ETF 2D EUR Hedged,-0.06,-0.48,-6.48,-8.23,-7.95,-9.79,,4000.0,856.0,879.0,False
+1001,Xtrackers USD High Yield Corporate Bond UCITS ETF 1D,0.73,-0.68,-8.45,-9.64,-8.1,,,3328.0,734.0,878.0,False
