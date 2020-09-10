@@ -5,6 +5,7 @@ before it is saved to a .csv file.
 
 good luck! 
 
+
 """
 
 from selenium.common.exceptions import ElementClickInterceptedException
