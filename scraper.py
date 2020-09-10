@@ -42,7 +42,7 @@ df = pd.DataFrame(tab_data)
 page_counter = int(page)
 
 
-# go to the next webpage by pressing "next" button
+# function to go to the next webpage by pressing "next" button
 def get_next_page():
     element = WebDriverWait(driver, 5).until(
         EC.presence_of_element_located(
@@ -52,7 +52,7 @@ def get_next_page():
     time.sleep(2)
 
 
-# clean the raw data to understandable numbers.
+# function to clean the raw data to understandable numbers.
 def clean_number(number):
     str_number = str(number)
     if not str_number or len(str_number) == 0:
@@ -65,6 +65,8 @@ def clean_number(number):
         return str_number.split(' ')[1]
     else:
         return number
+
+# function to clean the data in the dataframe
 
 
 def clean_dataframe(dataf: pd.DataFrame):
@@ -107,6 +109,8 @@ def clean_dataframe(dataf: pd.DataFrame):
     return dataf
 
 
+# this runs as long as there in an acive next button and therefore
+# a next page to scrape data from.
 while True:
     # try to access "nextbutton" else, exception and end.
     try:
