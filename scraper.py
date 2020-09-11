@@ -26,14 +26,14 @@ from pathlib import Path
 # Path to cromedriver
 DRIVERPATH = r"C:\Program Files (x86)\chromedriver.exe"
 file_path = Path().parent.absolute()
-page = 1
+page = 19
 csv_file_name = 'ETF_data_total.csv'
 
 # Create selenium driver and load URL
 driver = webdriver.Chrome(DRIVERPATH)
 driver.get("https://www.nordnet.se/marknaden/etf-listor?sortField=name&sortOrder=asc&selectedTab=historical&page="+str(page))
 
-# First instance of BFsoup and dataframe
+# First instance of BFsoup and dataframe, takes the first table on the webpage
 soup = BeautifulSoup(driver.page_source, 'lxml')
 table = soup.find_all('table')[0]
 tab_data = [[cell.text for cell in row.find_all(["th", "td"])]
@@ -43,7 +43,7 @@ df = pd.DataFrame(tab_data)
 page_counter = int(page)
 
 
-# function to go to the next webpage by pressing "next" button
+# function to go to the next webpage by pressing "Nästa" button.
 def get_next_page():
     element = WebDriverWait(driver, 5).until(
         EC.presence_of_element_located(
