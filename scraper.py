@@ -26,7 +26,7 @@ from pathlib import Path
 # Path to cromedriver
 DRIVERPATH = r"C:\Program Files (x86)\chromedriver.exe"
 file_path = Path().parent.absolute()
-page = 19
+page = 15
 csv_file_name = 'ETF_data_total.csv'
 
 # Create selenium driver and load URL
@@ -98,7 +98,7 @@ def clean_dataframe(dataf: pd.DataFrame):
     dataf['return ranking'] = dataf.iloc[:, -
                                          1:].rank(0, method='min', ascending=True, pct=False)
 
-    # skapar fält med return ranking sum/antalet datapunkter - Nan värden. Då vi inte har data för exempelvis 5år för alla finansiella instrument.
+    # skapar fält med return ranking sum/antalet datapunkter minus Nan värden. Då vi inte har data för exempelvis 5år för alla finansiella instrument.
     dataf['avg return ranking'] = dataf['Return ranking sum'] / \
         (len(dataf.columns[1:8]) - dataf.isnull().sum(axis=1))
     dataf['avg return ranking'] = dataf['avg return ranking'].rank(
